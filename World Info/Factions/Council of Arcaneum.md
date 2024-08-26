@@ -1,3 +1,0 @@
-The Council governs mages in Ilrinia and the Deshen Empire, requiring each spellcaster to register under them or be forced to take a magic numbing drug. Their ranks contain magisters, who oversee infrastructural enchantments and wards, executors, who investigate magical phenomena and artifacts, and artificers, who construct automatons to automate menial labour and enchant everyday objects with helpful enchantments.
-
-The members of the Council usually wear dark blue robes with gold accents, with the exception of their executors, who usually dress more eclectically.
