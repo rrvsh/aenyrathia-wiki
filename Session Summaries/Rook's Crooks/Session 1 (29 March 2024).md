@@ -1,0 +1,46 @@
+Zymis, 29th of Eternae 1892 (day before the weekend!)
+- In the early AM every night, Fenrir sneaks into the school to disable the metal detector so he can sneak his dagger in
+- Ekra correctly deduces that Fenrir does this based on him revealing his dagger a few times in school, and manages to sneak his daggers in
+- All 4 get in detention because:
+	- Phyrrah and Ekra get in a fight
+	- Rook brings weed in
+	- Fenrir is permanently in detention because he hacked the school website to display a beheading
+- Detention is overseen by a Mr Thorne, a maths teacher who is an overweight cowardly manticore who often hums to himself rather annoyingly
+- As they are chilling in detention, a loud commotion happens across the street and a magical bolt of energy breaks one of the windows of the classroom
+	- Mr Thorne shrieks and jumps behind the desk, humming nervously to himself
+- They watch as the pawn shop across the street, operated by one Mr Patrick who often lets the misfits in despite their bad reputation, gets robbed by some gangsters wearing black bandanas around their face
+	- Fenrir and Rook clock them as Arbys, a small gang operating in the neighbourhood of Arbalest
+- There is a brief skirmish as Rook decides to jump out the broken window and wade into comabt, where Mr Patrick fires off spells from scrolls
+	- He seems to not want to cast his last scroll and runs into the shop
+- Fenrir takes one of the Arbys' guns and realises he is an insanely talented sharpshooter
+	- He kills one of the Arbys but they leave the rest just unconscious
+- They hear police sirens in the distance and get out of there ASAP
+- Rook heads to his nook while Ekra manages to follow through pure athletics n acrobatic swag
+	- Rook brings him to his underground nook and shows him some of the undercity relics
+	- Ekra begins to find out Rook's persona is an affectation and that he may not be as much of a gangster as he pretends to be
+	- Rook decides to invite all of the detention club to L'Artique, a FL affiliated nightclub located at the bottom of a skyscraper in the central district
+- Fenrir heads to a nearby fast food restaurant called Jollyorc to lie low, Phyrrah follows after failing to follow Rook and Ekra
+	- They sit in silence for a while while Fenrir eats some food left on the table by previous patrons
+	- When they decide to leave to go shopping, they see two police officers heading right for the entrance where they are standing
+	- They panic and look for a back exit and try to head out; they are almost stopped by a manager but they just leave without trouble
+	- They get a text from Rook saying to meet at a club later, but meet now for a late lunch
+- The four meet at a shopping mall and talk about the skirmish
+	- Rook tells them about the Arbys and realise he probably is a target now that one of them was killed
+	- They go shopping for more club appropriate clothes since they were still in the clothes they wore to school
+- Ekra helps drive them to the club by renting a car, but halfway through realise the sports car next to them are Arbys preparing to do a drive by on them
+	- The Arbys send 4 men to kill Rook but the party fends them off
+- They arrive at the club and Rook daps up all his gang members
+	- A man with a skull tattoo covering his entire face called Skull greets them and tells them friends of Rook are always welcome
+- Rook immediately goes to the bar to drink a Red Raven (a healing potion cocktail)
+	- Phyrrah tries one too and loves it, so the bartender offers them a special cocktail called the Green Raven
+	- Rook and Phyrrah drink the Green Ravens and immediately fall under the drug effects
+	- Phyrrah goes over to Ekra and as she breathes on him, he immediately remembers what his mentor told him about the monk death cult sect that she was a part of and eventually eradicated, but she also told him about the Tisson Root that was an anti spellcaster drug
+- Fenrir goes on Pandemonium on his hacker's kit
+	- Hacker's kit is a banana phone that has an expanding panoramic screen and link cables to every kind of electronic device
+	- Ekra is highly enticed by the chaos of Pandemonium being a being of order ever since he was a kid and watched Fenrir shitpost for hours
+- Ekra notices Rook being openly ridiculed by the rest of his purported gang while Rook is drugged out of his mind and realises that Rook is not a true part of the gang
+	- He wonders why until a large built human man with skin almost covered in tattoos from head to toe except his face walks in the club and shouts Rook's name
+- Unc walks in and the music stops and everyone grows silent
+	- He walks up to Rook and lifts him with one hand, slamming him against a pillar in the middle of the dance floor
+	- He glares at the rest to leave, but they don't take the hint until Skull walks over to them and tells them to leave now or there will be trouble
+	- Phyrrah, Ekra, and Fenrir leave the club and Rook, still drugged and smiling, looks into Unc's angry face as his vision fades to black

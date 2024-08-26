@@ -1,0 +1,1 @@
+Miskatonic University is located in Ilrinia, and primarily serves to educate students in the various arts of magic to help the Council of Arcaneum boost its ranks.
