@@ -1,0 +1,1 @@
+Ruatis is the moon personified as a deity. The people of Aenyrathia do not worship the celestials anymore, but Ruatis was once feared and worshipped across the land as a wise and powerful goddess. These days, Ruatis is only worshipped by one: Arche Kagekiyo, a young sun elf.
