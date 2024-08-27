@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "70cdf16af72d04eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "8396f5fc0560f06c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b919fef6365ae53",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2943fd9843efcd54",
+    "type": "split",
+    "children": [
+      {
+        "id": "12ae761d4edc6b0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f8ed8a90e699730",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8bf9fbd60a69642",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e2139fe7bd2a8491",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3760a7bfd5fc1a66",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b7bf2744f962ba2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7708dd6fe5d9cb74",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "51b6ee8a560a448f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0b919fef6365ae53",
+  "lastOpenFiles": []
+}
