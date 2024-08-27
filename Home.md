@@ -1,9 +1,8 @@
 Welcome to the wiki for the Aenyrathia modern fantasy setting!
 
-Feel free to browse through the [[World Info]] pages for more information on the setting, or read through the [[session summaries|Session Summaries]] that describe the parties' adventures thus far.
+Feel free to browse through the [[World Info|World Info]] pages for more information on the setting, or read through the [[Session Summaries|Session Summaries]] that describe the parties' adventures thus far.
 
 [Guide to contributing to the wiki](https://aenyrathia.wiki/-/help)
-
 # House Rules
 The games are run on a Dungeons & Dragons 5th edition ruleset (2014 PHB/DMG) with modifications as follows:
 ## Character Creation

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Info/Factions/The Peakers.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 252.5
   },
   "right": {
     "id": "3760a7bfd5fc1a66",
@@ -105,13 +105,53 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "8dcc446c6d8169bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8dc444e3e8e647e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "48b92e75aa5ed37c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -125,6 +165,19 @@
   },
   "active": "0b919fef6365ae53",
   "lastOpenFiles": [
+    "Session Summaries.md",
+    "Home.md",
+    "World Info.md",
+    "Session Summaries/Rook's Crooks/Session 1 (29 March 2024).md",
+    "Session Summaries/Rook's Crooks/Session 3 (20 April 2024).md",
+    "Session Summaries/Rook's Crooks/Session 2 (05 April 2024).md",
+    "World Info/People/Xerxes Fairchild.md",
+    "World Info/People",
+    "Session Summaries/Kriminals/Session 2 (06 April 2024).md",
+    "World Info/Phenomena/Unveil.md",
+    "World Info/Phenomena",
+    "World Info/Factions/The New Dawn.md",
+    "World Info/Locations/Ilrinia.md",
     "World Info/Factions/The Peakers.md",
     "Session Summaries/Kriminals/Session 1 (30 March 2024).md"
   ]
