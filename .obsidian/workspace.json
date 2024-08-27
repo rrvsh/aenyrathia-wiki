@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "World Info.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "World Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "World Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "World Info.md"
               }
             }
           }
@@ -166,8 +166,8 @@
   "active": "0b919fef6365ae53",
   "lastOpenFiles": [
     "Session Summaries.md",
-    "Home.md",
     "World Info.md",
+    "Home.md",
     "Session Summaries/Rook's Crooks/Session 1 (29 March 2024).md",
     "Session Summaries/Rook's Crooks/Session 3 (20 April 2024).md",
     "Session Summaries/Rook's Crooks/Session 2 (05 April 2024).md",
