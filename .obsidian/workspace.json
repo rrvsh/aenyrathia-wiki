@@ -11,8 +11,12 @@
             "id": "0b919fef6365ae53",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "World Info/Factions/The Peakers.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -93,6 +97,14 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "35121f2e077d9bd0",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -112,5 +124,8 @@
     }
   },
   "active": "0b919fef6365ae53",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "World Info/Factions/The Peakers.md",
+    "Session Summaries/Kriminals/Session 1 (30 March 2024).md"
+  ]
 }
