@@ -102,18 +102,30 @@ Arriving at the Ralston penthouse, Senzorin hesitated momentarily at the thresho
 
 Victor turned to greet them, his expression welcoming as he remarked on Senzorin’s cowboy hat, which had settled askew atop his head. There was something about Victor’s face that caught Senzorin’s eye, an odd flicker of something concealed beneath the surface, but it was quickly overshadowed when Senzorin turned to Jonathan and saw the boy giving him strong bedroom eyes. Senzorin felt a smile spread across his face, and he didn’t resist as Jonathan beckoned him up to his room.
 ## Downtime
-### Zel'eon Talos
-- Installed a screen in the central console of the Talos for a navigation system, enabling control of the vehicle without a physical steering wheel, allowing for potential autopilot functionality.
-- Proposed helping Arche perform surgery to install sub-dermal armor, which would provide protection to his bones and organs, raising his AC to 20, but recognized the procedure's irreversible nature. 
-- Underwent a preparation process for the surgery, considering the complexity of installing the armor.
-### Senzorin Talos
-- Intended to network and build connections with the Thieves Guild and sought areas other than bars to socialize.
-- Practiced with his revolver to master the ability to shoot bolts of various elemental types, including fire, ice, and lightning, recognizing the potential for further skill advancement over time.
-### Arche Kagekiyo
-- Attended a course on archival studies at the National Library, learning about the proper treatment and use of archival materials.
-- Focused on her combat skills and developing her magical abilities while strengthening her friendships and working on emotional composure during the downtime.
-### Saziver Copper-Fern
-- Engaged in extensive study for upcoming exams and utilized his cyberdeck to work on projects and research. 
-- Assisted Zel'eon during the installation of the Talos' navigation screen, helping to enhance the car's features.
-- Took the initiative to assist Arche in learning about various subjects that could improve her skills and knowledge, offering insights into their findings and potential avenues for exploration.
-- Worked to clear out his cyberdeck and other operational devices, ensuring they were optimized for usage throughout the downtime.
+Over the next two weeks, the group went through a period of relative calm, taking the opportunity to work on their own pursuits.
+
+As discussed, Zel'eon met Dalen Blackwell at his office, learning more about what Artificers are able to do. Dalen highlighted potential pathways for improvement, fuelling Zel'eon's determination for more ways to improve himself.
+
+Senzorin seized the opportunity to develop his relationship with Jonathan Ralston; he spent most of the nights together with Jonathan, either at his penthouse or in Senzorin's own room.
+
+Arche spent some time at the National Library going through the free archival course, accompanied by the courses other attendants, who Arche found happened to be from all walks of life and all ages - a testament to the Ilrinian drive for self-improvement.
+
+Saziver continued studying hard for his upcoming examinations, focusing on his chosen subject combination of engineering mathematics, business and finance, basic elvish, technomancy, and psionics, the last of which he spent a day each week training under the Arbalest Academy principal, John de Bolbec. 
+
+Turning her gaze to the sky every night, Arche wondered how she could spread word of Ruatis among the populace. Briefly considering printing out flyers to put up around the city, she had a flash of inspiration - if she could reconnect with her estranged father, the governor of Ilrinia, she could lean on his political power to spread the word of her god. With this in mind, she enlisted Saziver to help research her father, finding out that he was up for re-election soon, and planned to hold a rally on the 12th of Lunaris.
+
+Zel'eon also decided to work on enhancing the newly restored Talos Sovereign, kitting it out with reupholstered leather seating and a seat warming system. He borrowed Saziver and the pair worked on an autopiloting navigation system, managing to install a tablet into the central console that could extend a cable that plugged into a port Zel'eon implanted on his body, to give him the ability to control the car without having to drive it manually. Though the autopilot function did not get finished just yet, Zel'eon planned on submitting it as a final year project in his design and technology class.
+
+Senzorin also spent some time building a relationship with Ilrinia's underworld elements, making his face known to the Thieves' Guild.
+
+Zel'eon also decided to lean on Senzorin's criminal connections and his own research, finding a potential pit fighting club, patronised mainly by the rich and powerful, hidden within a small warehouse in Ham Row.
+
+Senzorin, not wanting his combat capabilities to fall to the wayside during this period, trained hard at increasing his prowess, focusing on trying to use the magitech revolver more efficiently. He discovered his ability to use it to cast fire, ice, or lightning elemental bolts, and recognised these base elements as being building blocks to potentially cast even more damaging effects through the gun.
+
+Saziver, in his studies with Principal de Bolbec, found that he seemed to not be a powerful psion (like Saziver had the potential to be) himself, but still knew how to train one. Saziver began practising how to read an enemy's mind and body language to predict what they were going to do next.
+
+Throughout this period, Zel'eon, still reminded of his loss against Arche, began plans to install sub-dermal armor plating to enable him to fight more offensively. Recognising the best material to him at the moment, steel, would still be sub-par compared to orichalcum, he decided to wait until he was able to procure some. 
+
+Arche also joined the rest in training her combat skills, practising every night under the moon on using her spear in tandem with her sword and her magic. She began to think on how she could develop her worship of Ruatis even more with her combat, coming up with plans to manufacture a tip for her collapsible elven spear out of moon rock.
+
+Zel'eon also set to work understanding the recipes he had taken from the Purists' offices, eventually finding out how to manufacture alchemists' fire in his lab. He created a few vials of this, loading it into his arm launcher to prepare for any fights ahead. Additionally, he began research on trying to create a sonic bomb that could fit into his arm launcher.
