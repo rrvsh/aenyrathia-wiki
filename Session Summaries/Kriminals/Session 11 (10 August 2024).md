@@ -58,17 +58,32 @@ Amidst the ribbing, Zel’eon received a text from Dalen Blackwell regarding a m
 
 As they pulled away from the diner under the soft glow of the fading sun, they decided to head to Arbalest Academy for some sparring before returning home.
 ## Zel'eon and Arche Spar
-On Udis, the first day of the weekend on the 27th of Mistfall, 1892, Zel'eon and Senzorin returned home after their successful heist at the Platinum Tower, where Senzorin collapsed in exhaustion and Arche arrived looking drained after a disappointing date with Jack. As Saziver joined them from his intense studying, Arche's remarks about Jack sparked playful teasing from her friends, highlighting her reluctance to acknowledge the date. Senzorin demonstrated his newfound magical ability by conjuring a bolt of fire from his revolver, surprising his friends. The group then decided to replace the engine of their vintage Talos Sovereign, successfully bringing it to life. They headed out for a meal at Tom's Diner, where they unexpectedly encountered Jonathan, Senzorin's date, along with Jack and his friends. Light-hearted banter continued until Arche, feeling embarrassed, teleported back to their vehicle, while Zel'eon and Senzorin engaged with Jack's group. The outing ended with more teasing about Arche's dating misadventures, and they resolved to visit Arbalest Academy for sparring before returning home, buoyed by their camaraderie and successes.
+As the evening sun dipped below the horizon, bathing the field behind Arbalest Academy in hues of orange and purple, the group arrived for Zel'eon and Arche's spar. Senzorin and Saziver set up lawn chairs as Zel'eon and Arche prepared for combat.
 
-- As the group arrives at Arbalest Academy, they head to the field behind the school. Senzorin and Saziver set up lawn chairs as they watch Zel'eon and Arche prepare to spar against one another as the moon rises.
-- Arche is wearing her black mask along with her black mithril plated bodysuit, while Zel'eon is just wearing a white shirt and black pants without his normal jacket.
-- Zel'eon extends his wings wide, and lunges forward, slashing across Arche's chest with his arm blade. Frosty ice begins forming over the slash, as Arche jumps back. With her left hand outstretched, a spear of pure moonlight begins to appear in said hand, as she lunges forward and attacks Zel'eon twice, once with her sword and once with the conjured spear.
-- Saziver and Senzorin watch the fight, alongside one of the school janitors who has stopped cleaning the outside of the school to watch the fight.
-- As Zel'eon is blown back by Arche's barrage of attacks, he extends his right wing, stabilising himself, before attacking once again with his arm blade, trailed by a wave of ice through the air. Arche once again lunges forward, piercing the spiritual weapon in her left hand towards Zel'eon's chest, piercing through it.
-- Senzorin is ignoring the fight completely, focusing on the janitor watching the fight. Zel'eon reaches out with his hand, crackling with a blue electric energy, and touches Arche on one of the metal plates of her armored bodysuit. The electricity arcs through the mithril strands weaved throughout her armor and zaps her, making her jump back in pain.
-- Arche, bouncing on the tips of her feet, drops her sword from her right hand and balls it into a fist. Running forward, she gathers white moonlight into her fist and slams it into Zel'eon's face. Zel'eon feels his whole body get lifted off the ground by the punch and flies back, landing on the ground, drifting in and out of unconsciousness.
-- Arche stands there shocked for a little bit before she rushes over and begins healing Zel'eon back to consciousness, saying, "Oh my god, I'm so sorry, what the fuck," as Saziver crows from the sidelines, "That was sick as fuck!"
-- The group heads to the infirmary to heal up, using the machines to heal their wounds from the fight. They make use of one of the machines, an EchoTech MediPod, a magitech device that can diagnose and heal injuries extremely fast.
-- Arche apologises profusely to Zel'eon, as Senzorin says, "Don't be sorry, he did this to me last week."
-- Zel'eon, looking out the window at the janitor cleaning the field of the remnants of their sparring match, thinks through the battle, trying to figure out where he went wrong. He realises some enemies (like Arche) will have way too high physical defences and that he will need some method of bypassing that by diversifying his combat skillset.
-- Senzorin gets a call from Jonathan, asking if he will join them at this point. Senzorin decides he will go with them, while the rest of the group heads home.
+Arche stood ready, her black mask and form-fitting mithril bodysuit glimmering eerily beneath the emerging moonlight. Zel'eon dressed simply in a white shirt and black pants, forgoing his usual jacket. 
+
+With a sudden burst of energy, Zel'eon extended his wings wide, the metal glinting in the moonlight just before he lunged forward, arm blade slashing across Arche’s chest, leaving a sheet of frost spreading out from the rent in her clothing. Arche sprang back, her left hand raised as a spear of pure moonlight coalesced within her grip, radiating a soft, ethereal glow.
+
+Saziver leaned forward in his chair, eyes alight with excitement, while Senzorin's attention was focused on a lone janitor who had paused his cleaning duties to watch the fight.
+
+Arche lunged forward, attacking Zel'eon twice—first with her sword and then with the conjured spear. The clang of metal against steel echoed as Zel'eon was pushed back, but he quickly regained his footing, extending his right wing to stabilize himself. He retaliated with a sweeping strike, his arm blade trailing wisps of ice through the air. 
+
+Arche wasn’t deterred. This time, she pierced forward with her spear, the tip aimed directly at Zel’eon’s chest. The weapon struck true, driving into him. He grunted in pain but did not retreat; instead, he gripped the spear’s haft, pulling himself closer while extending his free hand toward her.
+
+With a crackle of blue electricity, Zel'eon touched Arche's armored plating, causing arcs of energy to leap from him to her. The jolting current forced her to recoil with a gasp. Dropping her sword, she clenched her fist, gathering white moonlight within it.
+
+Stepping forward, she struck Zel'eon squarely in the face, the force of her punch lifting him clean off the ground. He flew backward, landing heavily.
+
+Shock washed over Arche as she realized the impact of her blow. “Oh my god, I’m so sorry, what the fuck?” she exclaimed, rushing to his side. 
+
+“That was sick as fuck!” Saziver cackled, filling the air with his exuberant cheer from the sidelines.
+
+Quickly, Arche knelt beside Zel'eon, her hands hovering over him as she began to invoke her healing magic. The air glimmered as she channeled her energy, urging him back to consciousness. 
+
+As they brought Zel'eon to the infirmary, the group made use of one of the EchoTech MediPods—a magitech device with the ability to diagnose and heal injuries almost instantaneously. Arche’s apologies kept coming as Senzorin chuckled, “Don’t be sorry; he did this to me last week.”
+
+While the machine pulsed with healing energy, Zel'eon gazed out the window, watching the janitor cleaning away the remnants of their spirited sparring match. Thoughts whirled in his mind as he analyzed the battle, questioning where he had faltered. He recognized that some foes, like Arche, would boast formidable physical defenses, and he would need to diversify his combat skills to counter such challenges in the future.
+
+At that moment, Senzorin's phone chimed, breaking his concentration. He glanced at the screen and saw it was a call from Jonathan. He considered the invitation to join them briefly before deciding, “I’ll go ahead.” 
+
+As the others began to head home, Senzorin mounted his chopper, heading towards Greenwich to join Jonathan and his friends once more.
