@@ -88,9 +88,16 @@ At that moment, Senzorin's phone chimed, breaking his concentration. He glanced 
 
 As the others began to head home, Senzorin mounted his chopper, heading towards Greenwich to join Jonathan and his friends once more.
 ## Senzorin joins the Miskatonic University Students for Drinks
-- Jonathan sticks to Senzorin's side the whole night as they sit at a bar and have drinks. The group is Jack, Jonathan, Senzorin, Gemma, and K'lai.
-- Senzorin finds that the group is all studying at Miskatonic University in different majors; Jonathan is studying arbormancy, the study of magical botany, that he originally joined to follow in his father's footsteps as an executive at the Sylvan corporation but now really enjoys, Jack is studying combat magic and fancies himself a spellsword, Gemma is studying arithmancy, the study of numerology in an arcane context, and K'lai is studying divine magic history, and studying the emergence of a lot of Aasimar in society recently. 
-- The rates of Aasimar (mortals with a touch of divine magic) are increasing in Ilrinia in recent decades, with K'lai theorises is related to Ilrinia being a hub of magic due to being located on one of the intersections of leylines in the world. 
-- She also states that Ilrinia being located on this intersection of leylines is why the Council of Arcaneum decided to set up shop in Ilrinia centuries ago, but Senzorin remembers some knowledge that had lay dormant in his mind since childhood that the Council was actually set up for a completely different reason being some kind of incident, though he cannot remember exactly what it was. 
-- As the night wraps up, Senzorin goes home with Jonathan. As they stumble into his penthouse, drunk, Senzorin sees Jonathan's father, Victor Ralston, watching television in the living room. Victor turns around and greets the pair, noting Senzorin's cowboy hat which is sitting askew on his head. 
-- Senzorin notices something odd on Victor's face, and is about to read into it, before he notices Jonathan looking at him with some bedroom eyes. He smiles a happy smile and follows Jonathan up to his bedroom, as the night finally draws to a close.
+Heading back to Greenwich, Senzorin soon found himself within the cozy confines of a dimly lit bar, accompanied by Jonathan and the others: Jack, Gemma, and K'lai.
+
+Jonathan stayed glued to Senzorin's side the entire night as Senzorin learned more about their respective studies. Jonathan detailed his newfound love of arbormancy, the study of magical botany—a field he had initially embraced to follow in his father's footsteps as an executive at Sylvan Corporation. Jack talked about studying combat magic as he explained his aspirations to become a spellsword, while Gemma described her relatively obscure field of arithmancy, a field of study that explored the relationship between mathematics and magic. K’lai, who studied divine magic at the university, talked about the rise of rates of Aasimar in Ilrinia—a trend she speculated was linked to the city's position on a convergence of leylines.
+
+"The Council of Arcaneum established itself here centuries ago for precisely that reason," K’lai stated, explaining how this intersection of leylines made Ilrinia a crucible for powerful magic.
+
+An odd sensation flickered within Senzorin's mind as he listened, nudging some dormant memory toward the surface. He recalled, though drunkenly, tales from his childhood hinting at the Council's founding being shrouded in a more sinister mystery—some incident long forgotten. A piece of knowledge that, like the fragmented memories of his life before he ran away to Mosskach, remained out of reach.
+
+The waning night saw the group gradually dispersing, and eventually, Senzorin found himself departing with Jonathan, as they staggered towards the Platinum Tower.
+
+Arriving at the Ralston penthouse, Senzorin hesitated momentarily at the threshold. His heart quickened as he caught sight of Jonathan’s father, Victor Ralston, reclined comfortably on the couch. 
+
+Victor turned to greet them, his expression welcoming as he remarked on Senzorin’s cowboy hat, which had settled askew atop his head. There was something about Victor’s face that caught Senzorin’s eye, an odd flicker of something concealed beneath the surface, but it was quickly overshadowed when Senzorin turned to Jonathan and saw the boy giving him strong bedroom eyes. Senzorin felt a smile spread across his face, and he didn’t resist as Jonathan beckoned him up to his room.
