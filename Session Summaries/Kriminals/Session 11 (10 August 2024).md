@@ -101,3 +101,19 @@ The waning night saw the group gradually dispersing, and eventually, Senzorin fo
 Arriving at the Ralston penthouse, Senzorin hesitated momentarily at the threshold. His heart quickened as he caught sight of Jonathan’s father, Victor Ralston, reclined comfortably on the couch. 
 
 Victor turned to greet them, his expression welcoming as he remarked on Senzorin’s cowboy hat, which had settled askew atop his head. There was something about Victor’s face that caught Senzorin’s eye, an odd flicker of something concealed beneath the surface, but it was quickly overshadowed when Senzorin turned to Jonathan and saw the boy giving him strong bedroom eyes. Senzorin felt a smile spread across his face, and he didn’t resist as Jonathan beckoned him up to his room.
+## Downtime
+### Zel'eon Talos
+- Installed a screen in the central console of the Talos for a navigation system, enabling control of the vehicle without a physical steering wheel, allowing for potential autopilot functionality.
+- Proposed helping Arche perform surgery to install sub-dermal armor, which would provide protection to his bones and organs, raising his AC to 20, but recognized the procedure's irreversible nature. 
+- Underwent a preparation process for the surgery, considering the complexity of installing the armor.
+### Senzorin Talos
+- Intended to network and build connections with the Thieves Guild and sought areas other than bars to socialize.
+- Practiced with his revolver to master the ability to shoot bolts of various elemental types, including fire, ice, and lightning, recognizing the potential for further skill advancement over time.
+### Arche Kagekiyo
+- Attended a course on archival studies at the National Library, learning about the proper treatment and use of archival materials.
+- Focused on her combat skills and developing her magical abilities while strengthening her friendships and working on emotional composure during the downtime.
+### Saziver Copper-Fern
+- Engaged in extensive study for upcoming exams and utilized his cyberdeck to work on projects and research. 
+- Assisted Zel'eon during the installation of the Talos' navigation screen, helping to enhance the car's features.
+- Took the initiative to assist Arche in learning about various subjects that could improve her skills and knowledge, offering insights into their findings and potential avenues for exploration.
+- Worked to clear out his cyberdeck and other operational devices, ensuring they were optimized for usage throughout the downtime.
