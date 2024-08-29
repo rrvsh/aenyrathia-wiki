@@ -11,11 +11,10 @@
             "id": "0b919fef6365ae53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "World Info.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -112,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "World Info.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -150,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,9 +159,17 @@
   },
   "active": "0b919fef6365ae53",
   "lastOpenFiles": [
+    "Session Summaries/Kriminals/Session 10 (13 July 2024).md",
+    "Session Summaries/Kriminals/Session 11 (10 August 2024).md",
+    "Session Summaries/Kriminals/Session 1 (30 March 2024).md",
+    "PCs/Template.md",
+    "Home/map-heightmap.png",
+    "Home/map.png",
+    "Home/logo.png",
+    "Home/favicon-32x32.png",
     "Session Summaries.md",
-    "World Info.md",
     "Home.md",
+    "World Info.md",
     "Session Summaries/Rook's Crooks/Session 1 (29 March 2024).md",
     "Session Summaries/Rook's Crooks/Session 3 (20 April 2024).md",
     "Session Summaries/Rook's Crooks/Session 2 (05 April 2024).md",
@@ -178,7 +180,6 @@
     "World Info/Phenomena",
     "World Info/Factions/The New Dawn.md",
     "World Info/Locations/Ilrinia.md",
-    "World Info/Factions/The Peakers.md",
-    "Session Summaries/Kriminals/Session 1 (30 March 2024).md"
+    "World Info/Factions/The Peakers.md"
   ]
 }
