@@ -2,7 +2,7 @@
 - Rafiq: Game Master
 - Haikal: Zel'eon Talos, Human Enhanced Artificer 4
 - Buzz: Senzorin Talos, Half-Elf Arcane Trickster Rogue 4
-- Toph: Arche Kagekiyo, High Elf Twilight Cleric 4
+- Toph: Arche Kagekiyo (birth name Luvia Bellona Ortlinde), High Elf Twilight Cleric 4
 - Dom: Saziver Copper-Fern, Gnome Empath Psion 4
 # Session Recap
 ## Reconvening at the House
@@ -213,3 +213,51 @@ Zel'eon immediately noted the similarity to Arche's finishing punch against him 
 As a single solitary wood elf stood in the middle of the hall, realising he was the only one left alive, he steeled his jaw in resolution. He turned to face the fleeing citizens and aimed his pistol, trying to cause as much damage as possible before he went, but the gun's trigger would never depress. The elf reached up and grasped at his neck as he choked out his last breath, his neck frozen solid. Behind him, Senzorin aimed his revolver, this time firing a normal bullet as opposed to a bolt of ice, shattering the last terrorist's neck and sending his severed head arcing through the air.
 
 As the chaos of the battle faded, the team looked around, not even bothering to celebrate their victory. They had triumphed, yes, yet around the hall lay a score of corpses belonging to the innocent; that they failed to save. Congregating at the front of the hall in front of the governor, Arche and her friends prepared to finally speak to her father.
+## Luvia Bellona Ortlinde
+As Saziver brought the charmed terrorist over to the governor, the rest of the group convened by the front of the hall. Arche shook with anxiety as Governor Ortlinde introduced himself to the group, and they responded in kind. They spoke briefly about the implications of the attack and the charmed wood elf's claim that one of their patron-beasts had been slain, before the governor's voice began to trail off as he stared directly at Arche. In a soft voice, he said, "Luvia?"
+
+Zel'eon and Senzorin immediately slinked away as Anderson Ortlinde looked at his daughter in shock. "We thought you were dead... What happened? Why did you leave?"
+
+Arche, called by her birth name for the first time in years, stood in front of her father, feeling reduced to a little girl again as Anderson's voice climbed higher and higher. "We thought you were dead, Luvia! How could you leave your mother?" With a soft voice, Arche only responded, "I don't know." Sighing, Anderson looked to the side. "How could you be like this?"
+
+"Like what?" Arche shot back, incensed.
+
+"I've stayed by her side this whole time!" 
+
+"And has that helped? Have you tried doing anything differently?" 
+
+"You know we have been looking for your brother for years!" 
+
+"Yeah, and you didn't find anything, so I thought, hey! Maybe I could do something." 
+
+"And did you succeed in that?"
+
+"No," Arche softly whispered, ending the back-and-forth. Saziver stood there, paralyzed by anxiety as he observed the exchange between father and daughter. "Then what leave have you to say that about me?" the governor said softly. "Do you think I have not tried, do you think I have not cried every single day, thinking about where your brother might be?"
+
+As experienced a combatant as Arche was, she was still a teenager, and so, in her youthful frustration, she lashed out, sullenly saying, "Well, you haven't exactly been a standout dad." Saziver squirmed beneath the palpable tension between the two elves, acutely aware of the emotions swirling in the air by virtue of his psionic abilities. "I'm sorry if I failed as a standout dad to you, but I've been busy," the governor said, "busy trying to take care of your mother, trying to find your brother. I thought you were good enough to stand on your own." Scoffing, Arche looked into her father's eyes. "So busy trying to find your missing child, you forgot about the one that was still around."
+
+Anderson looked out across the empty hall, for his security detail had long left by now. "So what now? Do you wish to leave again, abandoning us? Abandoning your mother?" Upon not receiving a reply from Arche, he met her stare with one just as piercing as hers. "Why did you come here, Luvia? Why did you come to my rally?" Arche looked down at the floor, the tips of her ears burning with shame as her father realized why she had come to see him. "Ah," a deep look of sadness washed over the elder elf's features, "You're a chip off the old block, aren't you, Luvia?" Arche met her father's eyes once more. "I'm no different from you."
+
+Anderson stood up, taking a slow step away from his daughter. "Why don't you go check on your mother? She'd be happy to see you." As Arche stepped backstage with Saziver, the governor approached Zel'eon and Senzorin, who were fervently attempting to act as though they hadn't heard anything. Looking at the crestfallen governor, Zel'eon's heart softened, and he spoke up, telling him not to be too hard on his daughter. As Zel'eon and Senzorin told him that they had taken care of her when she fled to Mosskach, a look of recognition crossed the governor's face as he regarded Senzorin, remembering him as the little Talos boy who had played with his daughter in their childhood, remarking on how he had grown.
+
+Governor Ortlinde assured Senzorin that he would maintain discretion regarding his anonymity with the Talos clan, but said, "Speaking from your parents' perspective, I think you should reach out to them." Nevertheless, the governor expressed his gratitude to the two, telling them they would be amply rewarded for their assistance that day, leading them to request a selfie with him—a request he graciously agreed to.
+
+Zel'eon sent the picture to Dalen immediately and received a flurry of question marks in response, followed by an avalanche of texts demanding an explanation. Among them was a message that simply read, "NVM. How the hell do you guys keep finding yourselves in these situations? On my way! now."
+
+Meanwhile, Arche was backstage, kneeling before her mother. She spoke softly to Aurora, but, of course, there was no response. As the rest of the group filed in, they fell silent at the sight of Arche gently speaking to her mother, apologies spilling forth for having left. As the group assumed a solemn air and Arche fell into silence, simply gazing into her mother's face, Saziver got an idea.
+
+Zel'eon observed silently as Saziver's expression transformed, displaying the unmistakable sign of him attempting to pull off a powerful psionic feat. He reached into the black void of the mindscape toward Aurora Ortlinde's mind, seeing it as a softly blinking light, appearing disordered and frayed.
+
+He cradled her mind gently in his hand and tried everything he could think of to reach into it and pull Aurora out, but despaired at how tightly locked her psyche was behind her depression; until he noticed a tenuous link connecting Aurora's essence to a nearby shining star—Arche. Gathering the threads of memories binding their minds, that of years of happiness, heartbreak, and love, he amplified the connection, and to his elation, watched as the thread began to worm its way past the ironclad lock of her depression and reach into the core of her being.
+
+As Arche, Zel'eon, and Senzorin stood there, still observing Aurora, a sudden movement caught their attention. For the first time in a very, very long time, Aurora Ortlinde's eyes focused on her hand resting in her lap, covered by Arche's. Her gaze traveled slowly up Arche's arm, finally fixing on her daughter's face as Arche began to sob with joy. With a slow, labored effort, Aurora's hand reached out, joints creaking from atrophy, as she placed it gently against Arche's cheek, whispering in an old, disused voice, "Luvia?"
+
+As Saziver cleared his mind of the psionic mindscape, opening his eyes to witness Arche enveloping her mother in a warm embrace, sobbing and apologizing profusely, Aurora merely stroked her back, a weary smile gracing her lips. A presence approached, and Saziver turned toward the stage to see Anderson entering, wonder evident on his features. "Aurora?"
+
+Arche turned to face him, tears and snot streaming down her cheeks. "Dad, mom's—Mom's responding again!" Anderson stood speechless, simply moving forward to wrap his wife and daughter in a heartfelt embrace. Zel'eon and Senzorin once again slinked away as Anderson began to apologize for treating his daughter so.
+
+Meanwhile, as Zel'eon and Senzorin shared a cigarette outside the Ortlinde Youth Home, they noticed an Orcish-constructed car pull up on the street, from which Dalen Blackwell emerged. He asked for a full debrief, and after the pair recounted everything, he too took out a cigarette, lighting it and taking a deep drag. 
+
+Inside, Anderson, Aurora, and Arche shared their experiences, each profusely apologizing for their past mistakes—Anderson for neglecting his daughter, Aurora for retreating into herself, and Arche for failing to understand her parents' pain. They promised to reunite as soon as possible, and Arche formally bid her family farewell as befit a member of House Ortlinde, with Saziver trotting at her heels.
+
+As Arche and Saziver exited the Ortlinde Youth Home, they exchanged glances and, despite the gravity of the moments shared, exchanged grins. They climbed into their Talos Sovereign and started the drive home as the sun finally set on Arche's long and arduous birthday.
