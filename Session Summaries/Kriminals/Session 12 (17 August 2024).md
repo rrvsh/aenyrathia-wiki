@@ -12,5 +12,3 @@
 - On Yros, 13th of Lunaris 1892, they take a bus north to Brunswick. Upon arrival, they stop at a seafood restaurant owned by a middle-aged sea elf who promises them ferry transport to Mosskach after taking money from them. The session ends as they head to the ferry terminal.
 # Experience Points
 For their battle against the panther where they survived against all odds and their skirmish with the wood elves behind their house, the party gains 1000 experience points. The team is now at 6200xp up from 5200xp.
-# Loot
-## Miscellaneous
