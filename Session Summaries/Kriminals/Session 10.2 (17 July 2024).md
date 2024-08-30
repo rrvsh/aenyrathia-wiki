@@ -78,7 +78,7 @@ In the centre of the garage, a large tarp covered a vehicle sitting in the middl
 
 Zel’eon was waiting on Senzorin’s motorcycle, engine rumbling softly, a beacon of escape. He felt the rush of air as Senzorin landed on the back, and without hesitation, he revved the engine and sped off. The afternoon sun hung high above Ilrinia, casting a warm glow on the exhilarated duo as they raced home, laughter spilling from their lips, giddy with the thrill of their successful heist.
 # XP
-For their success in the heist, along with discovering their abilities during the combat class and making allies instead of enemies out of the Avjarn, the party gains 500 experience points, bringing them from 3200xp to 3700xp.
+For their time spent preparing and eventual success in the heist, along with discovering their abilities during the combat class and making allies instead of enemies out of the Avjarn, the party gains 1000 experience points, bringing them from 3200xp to 4200xp.
 # Loot
 ## Magic Items
 ### Einrow's Revolver

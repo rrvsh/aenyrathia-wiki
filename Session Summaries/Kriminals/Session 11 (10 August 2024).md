@@ -279,3 +279,6 @@ Meanwhile, as Zel'eon and Senzorin shared a cigarette outside the Ortlinde Youth
 Inside, Anderson, Aurora, and Arche shared their experiences, each profusely apologizing for their past mistakes—Anderson for neglecting his daughter, Aurora for retreating into herself, and Arche for failing to understand her parents' pain. They promised to reunite as soon as possible, and Arche formally bid her family farewell as befit a member of House Ortlinde, with Saziver trotting at her heels.
 
 As Arche and Saziver exited the Ortlinde Youth Home, they exchanged glances and, despite the gravity of the moments shared, exchanged grins. They climbed into their Talos Sovereign and started the drive home as the sun finally set on Arche's long and arduous birthday.
+# Experience Points
+The team gains 1000 experience points for their their efforts in foiling the rally as well as the encounters throughout the end of Mistfall leading into Lunaris. The team is now at 5200xp from 4200. Happy birthday Arche!
+# Loot
