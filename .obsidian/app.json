@@ -1,4 +1,6 @@
 {
   "trashOption": "local",
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false
 }
