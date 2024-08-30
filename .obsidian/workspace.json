@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8396f5fc0560f06c",
+        "id": "d8f4db8b21b5a8c9",
         "type": "tabs",
         "children": [
           {
-            "id": "0b919fef6365ae53",
+            "id": "b702c7dd7aa86c27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Resources/House Rules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcc1457033ec379b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6b5fbe55c2a07a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b3802cacfc4f355",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Player Characters/Arche Kagekiyo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "968cdce13a43abb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore.md",
+                "file": "Story So Far.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Story So Far.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Story So Far.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Story So Far.md"
               }
             }
           },
@@ -211,19 +162,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6b5fbe55c2a07a5",
+  "active": "b702c7dd7aa86c27",
   "lastOpenFiles": [
+    "Story So Far/Session 09 (6 July 2024).md",
+    "Story So Far/Session 08 (1 June 2024).md",
+    "Story So Far/Session 07 (30 May 2024).md",
+    "Story So Far/Session 06 (26 May 2024).md",
+    "Story So Far/Session 05 (19 May 2024).md",
+    "Story So Far/Session 04 (11 May 2024).md",
+    "Story So Far/Session 03 (20 April 2024).md",
+    "Story So Far/Session 02 (06 April 2024).md",
+    "Lore.md",
+    "Characters/Player Characters/Arche Kagekiyo.md",
+    "Home.md",
     "Player Resources/House Rules.md",
     "Player Resources.md",
-    "Home.md",
-    "Lore.md",
     "Characters/Player Characters.md",
     "Characters/Player Characters/Zel'eon Talos.md",
     "Characters/Player Characters/Senzorin Talos.md",
     "Characters/Player Characters/Saziver Copper-Fern.md",
-    "Characters/Player Characters/Arche Kagekiyo.md",
     "Characters.md",
-    "Story So Far/Session 1 (30 March 2024).md",
+    "Story So Far/Session 01 (30 March 2024).md",
     "Story So Far.md",
     "Locations.md",
     "Story So Far/Session 10.2 (27 July 2024).md",
@@ -234,18 +193,10 @@
     "Lore/Locations/Aenyrathia/Ibuth",
     "Lore/Species/Orcs.md",
     "Lore/Magic and Technology/Orichalcum.md",
-    "Orc.md",
     "Lore/Species",
-    "Player Resources/Character Creation.md",
     "Lore/Magic and Technology",
-    "Lore/Gods/Ruatis.md",
-    "Characters/The Kriminals.md",
-    "Characters/Phyrrah Whiteape.md",
-    "Characters/Ellipses Seventhtime.md",
-    "Characters/Ekra Rutila.md",
     "Characters/Player Characters",
     "Player Resources",
-    "World Info.md",
     "Home/map-heightmap.png",
     "Home/map.png",
     "Home/logo.png",
