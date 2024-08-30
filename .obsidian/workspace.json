@@ -41,8 +41,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "4d3937895eae5f7e"
+            }
           },
           {
             "id": "6b3802cacfc4f355",
@@ -70,48 +69,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "d4bd63206c47a870",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "820b97277460e9ba",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Home.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 5,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            },
-            "group": "4d3937895eae5f7e"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -254,7 +211,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "820b97277460e9ba",
+  "active": "c6b5fbe55c2a07a5",
   "lastOpenFiles": [
     "Player Resources/House Rules.md",
     "Player Resources.md",

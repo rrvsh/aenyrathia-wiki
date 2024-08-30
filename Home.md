@@ -7,3 +7,4 @@ To put this in more defined terms, the setting is high magic, high fantasy, and 
 2. [[Characters]] - A list of notable people in the setting.
 3. [[Lore]] - Contains detailed information about the setting's world, people, phenomena, and locations.
 4. [[Player Resources]] - Explains what we use to play the game.
+<iframe src="https://app.fantasy-calendar.com/calendars/b8ba671bf13ea13ba98d3ae5dc8bd4fd" width="800" height="600" style="border: none;"></iframe>
