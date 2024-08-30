@@ -4,6 +4,24 @@
 - Buzz: Senzorin Talos, Half-Elf Arcane Trickster Rogue 4
 - Toph: Arche Kagekiyo (birth name Luvia Bellona Ortlinde), High Elf Twilight Cleric 4
 - Dom: Saziver Copper-Fern, Gnome Empath Psion 4
+# TL;DR
+- 27th of Mistfall, 1892: The team reconvenes after Zel'eon and Senzorin's heist and Arche's failed date with Jack. Saziver identifies Senzorin's revolver as magitech.
+- They head to Tom's Diner where they run into Jack and Jonathan Ralston (a boy Senzorin is dating). Hilarity ensues.
+- Zel'eon and Arche spar at Arbalest Academy and Arche wins handily despite Zel'eon using magic.
+- Senzorin goes for drinks with Jonathan and his friends while the rest head home.
+- Downtime from 28th of Mistfall 1892 to 11th of Lunaris 1892
+	- Zel'eon works on the car and his alchemy
+	- Senzorin establishes contact with Thieves' Guild and learns how to use his revolver more effectively
+	- Saziver studies hard and helps the rest
+	- Arche begins planning her religious outreach and researches her father
+- 12th of Lunaris 1892: The team celebrates Arche's birthday and she receives gifts from all three of the rest.
+- The team head to Arche's father's rally where wood elf terrorists attack and the team foil their plans.
+- Governor Anderson Ortlinde recognises Arche as his daughter and they argue.
+- Arche finds her mother, Aurora, who is still as unresponsive as she has been for the last decade.
+- Saziver repairs Aurora's mind using Arche's mental connection with her.
+- Anderson, Aurora, and Arche reconcile.
+- Dalen Blackwell debriefs the team and shows a great deal of worry at the happenings.
+- The team heads home
 # Session Recap
 ## Reconvening at the House
 On Udis, the first day of the weekend, the sun hung low in the sky on the 27th of Mistfall, 1892, casting golden rays across the city of Ilrinia. Zel'eon and Senzorin returned to their home after their heist at the Platinum Tower. Senzorin, unable to contain his exhaustion any longer, collapsed onto the couch, the upholstery sinking beneath him.
