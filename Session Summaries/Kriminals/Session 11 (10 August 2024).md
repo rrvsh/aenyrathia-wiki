@@ -282,3 +282,12 @@ As Arche and Saziver exited the Ortlinde Youth Home, they exchanged glances and,
 # Experience Points
 The team gains 1000 experience points for their their efforts in foiling the rally as well as the encounters throughout the end of Mistfall leading into Lunaris. The team is now at 5200xp from 4200. Happy birthday Arche!
 # Loot
+## Magic Items
+### Poison Gas Bomb
+*Wondrous item, common*
+
+Properties:
+- Activation: As an action, you can throw the orb up to 30 feet. Upon impact, the orb shatters, releasing a noxious cloud of poison gas in a 15-foot radius.
+- Effect: Each creature in the area must succeed on a DC 12 Constitution saving throw or become **poisoned** for 1 minute. A poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+- Consumption: The Poison Gas Bomb can be used only once; after its activation, it is destroyed.
+
