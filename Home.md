@@ -1,5 +1,9 @@
-Welcome to the wiki for the Aenyrathia modern fantasy setting!
+# Introduction
+Aenyrathia is a contemporary fantasy setting that me and my friends play tabletop roleplaying games in. The whole premise behind Aenyrathia is: how would a traditional high fantasy setting look like in the modern era?
 
-Feel free to browse through the [[World Info|World Info]] pages for more information on the setting, or read through the [[Session Summaries|Session Summaries]] that describe the parties' adventures thus far.
-
-[Guide to contributing to the wiki](https://aenyrathia.wiki/-/help)
+To put this in more defined terms, the setting is high magic, high fantasy, and modern technology. That means that the typical species you would expect in a fantasy setting are present, like dwarves, elves, and gnomes, and all of these people see magic on an everyday basis, working and living in it.
+# Categories
+1. [[Story So Far]] - A retelling of the campaign's events so far.
+2. [[Characters]] - A list of notable people in the setting.
+3. [[Lore]] - Contains detailed information about the setting's world, people, phenomena, and locations.
+4. [[Player Resources]] - Explains what we use to play the game.

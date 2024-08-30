@@ -8,7 +8,7 @@ In 1891, Einrow passed while on a burglary gone awry. Senzorin continued his lif
 In 1892, Senzorin and his friends, Zel'eon, Arche, and Saziver, got into serious trouble with the EchoTech corporation after stealing one of their experimental chips. The four fled to Ilrinia, where they have enrolled into Arbalest Academy.
 
 # Physical Appearance
-Senzorin Talos is a half-elf male in his late teens of average height and physique. He bears a distinct knife scar on his right eye as a result of defying orders in his time as a gang member. His shoulder length hair is gold in colour, but he dyes it black to avoid people guessing at his sun elf heritage.
+Senzorin Talos is a sun elf male in his late teens of average height and physique. He bears a distinct knife scar on his right eye as a result of defying orders in his time as a gang member. His shoulder length hair is gold in colour, but he dyes it black to avoid people guessing at his sun elf heritage.
 # In-Game Statistics
 - STR: 5 = 4 + 1 from feat
 - DEX: 18
@@ -18,6 +18,7 @@ Senzorin Talos is a half-elf male in his late teens of average height and physiq
 - CHA: 16 = 14 + 2 from race
 ## Level 1
 ### Race: [Half-Elf](https://5e.tools/races.html#half-elf_phb)
+*Note: Senzorin is a sun elf in lore*
 - Ability Score Increase: CHA +2, CON +1, INT +1
 - Size: Medium
 - Speed: 30 ft.

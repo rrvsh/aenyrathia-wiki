@@ -13,11 +13,103 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Locations/Aenyrathia/Ibuth.md",
+                "file": "Player Resources/House Rules.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "dcc1457033ec379b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6b5fbe55c2a07a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "4d3937895eae5f7e"
+          },
+          {
+            "id": "6b3802cacfc4f355",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Player Characters/Arche Kagekiyo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "968cdce13a43abb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "d4bd63206c47a870",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "820b97277460e9ba",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Home.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "4d3937895eae5f7e"
           }
         ]
       }
@@ -96,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Locations/Aenyrathia/Ibuth.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Locations/Aenyrathia/Ibuth.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Locations/Aenyrathia/Ibuth.md"
+                "file": "Home.md"
               }
             }
           },
@@ -162,10 +254,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b919fef6365ae53",
+  "active": "820b97277460e9ba",
   "lastOpenFiles": [
-    "Lore/Locations/Aenyrathia/Ibuth/Mosskach.md",
+    "Player Resources/House Rules.md",
+    "Player Resources.md",
+    "Home.md",
+    "Lore.md",
+    "Characters/Player Characters.md",
+    "Characters/Player Characters/Zel'eon Talos.md",
+    "Characters/Player Characters/Senzorin Talos.md",
+    "Characters/Player Characters/Saziver Copper-Fern.md",
+    "Characters/Player Characters/Arche Kagekiyo.md",
+    "Characters.md",
+    "Story So Far/Session 1 (30 March 2024).md",
+    "Story So Far.md",
+    "Locations.md",
+    "Story So Far/Session 10.2 (27 July 2024).md",
     "Lore/Locations/Aenyrathia/Ibuth.md",
+    "Lore/Locations/Aenyrathia/Ibuth/Mosskach.md",
     "Lore/Locations/Aenyrathia",
     "Lore/Locations/Aenyrathia/Desh",
     "Lore/Locations/Aenyrathia/Ibuth",
@@ -173,33 +279,20 @@
     "Lore/Magic and Technology/Orichalcum.md",
     "Orc.md",
     "Lore/Species",
-    "Player Resources/House Rules.md",
     "Player Resources/Character Creation.md",
-    "Home.md",
     "Lore/Magic and Technology",
     "Lore/Gods/Ruatis.md",
-    "Characters/Player Characters/Zel'eon Talos.md",
     "Characters/The Kriminals.md",
     "Characters/Phyrrah Whiteape.md",
     "Characters/Ellipses Seventhtime.md",
     "Characters/Ekra Rutila.md",
     "Characters/Player Characters",
     "Player Resources",
-    "Story So Far/Session 1 (30 March 2024).md",
     "World Info.md",
-    "Story So Far/Session 12 (17 August 2024).md",
-    "Story So Far/Session 11 (10 August 2024).md",
-    "Story So Far/Session 10.2 (17 July 2024).md",
-    "Story So Far/Session 10.1 (20 July 2024).md",
-    "Story So Far/Session 10 (13 July 2024).md",
-    "World Info/Phenomena/Unveil.md",
-    "World Info/People/Xerxes Fairchild.md",
-    "Characters/Template.md",
     "Home/map-heightmap.png",
     "Home/map.png",
     "Home/logo.png",
     "Home/favicon-32x32.png",
-    "Session Summaries.md",
     "World Info/People",
     "World Info/Phenomena"
   ]

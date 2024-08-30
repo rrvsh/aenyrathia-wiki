@@ -15,6 +15,7 @@ Character's appearance as seen by others
 - CHA: 16 = 14 +1 from Race + 1 from Feat
 ## Level 1
 ### Race: Variant Human
+*Note: Zel'eon is a half-elf in lore, born to a human mother*
 - Ability Score Increase: +1 CHA, +1 CON
 - Size: Medium
 - Speed: 30 ft
