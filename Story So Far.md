@@ -46,3 +46,6 @@ The team develop their individual skills as connections, Senzorin and Arche deve
 ## [[Session 12 (17 August 2024)|Story So Far/Session 12 (17 August 2024)]]
 *12th of Lunaris 1892 - 13th of Lunaris 1892*  
 As the team return home from the interrupted rally, they are attacked by a powerful panther-like wood elf. Fearing they would put anyone they hid with in danger, they take a bus to Brunswick, intending to flee to Mosskach on a ferry.
+## [[Session 13 (31 August 2024)|Story So Far/Session 13 (31 August 2024)]]
+*13th of Lunaris 1892 - 14th of Lunaris 1892*
+The team boards a smugglers' ferry supposed to be headed to Mosskach, but end up getting double crossed as the smugglers try to rob them. They defeat the smugglers, commandeer a boat and sail inland, meeting Dregdul once more and end the session once more entering Mosskach.
