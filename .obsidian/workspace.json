@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story So Far.md",
+                "file": "Lore/Locations/Aenyrathia/Ibuth/Mosskach.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story So Far.md",
+                "file": "Lore/Locations/Aenyrathia/Ibuth/Mosskach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story So Far.md",
+                "file": "Lore/Locations/Aenyrathia/Ibuth/Mosskach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story So Far.md"
+                "file": "Lore/Locations/Aenyrathia/Ibuth/Mosskach.md"
               }
             }
           },
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,6 +165,7 @@
   },
   "active": "b702c7dd7aa86c27",
   "lastOpenFiles": [
+    "Story So Far.md",
     "Story So Far/Session 09 (6 July 2024).md",
     "Story So Far/Session 08 (1 June 2024).md",
     "Story So Far/Session 07 (30 May 2024).md",
@@ -183,7 +185,6 @@
     "Characters/Player Characters/Saziver Copper-Fern.md",
     "Characters.md",
     "Story So Far/Session 01 (30 March 2024).md",
-    "Story So Far.md",
     "Locations.md",
     "Story So Far/Session 10.2 (27 July 2024).md",
     "Lore/Locations/Aenyrathia/Ibuth.md",
