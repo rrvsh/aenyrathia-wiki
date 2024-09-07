@@ -3,7 +3,7 @@ Born on 3 Empyrea in the year 1875 in the city of Ilrinia, Senzorin is a product
 
 The next few years were a whirlwind for Senzorin - first living as an urchin on the crime ridden streets of Mosskach, he was soon recruited into a gang and made to sell dwarven mined drugs. He soon picked himself up a mentor in the form of Einrow Whitebeard, a former pirate captain who has blood ties to the gang. Einrow had turned to a life of burglary after getting bored of the high seas, and took Senzorin under his wing, teaching him the trade.
 
-In 1891, Einrow passed while on a burglary gone awry. Senzorin continued his life as a burglar, though without much use for the riches he gathered, redistributed them among the poorer citizens of Mosskach. He spent most of his days whiling away time, not doing much else other than burglary, though he began to spend some time studying folklore in Mosskach's public libraries.
+In 1891, on Senzorin's 16th birthday, Einrow passed while on a burglary gone awry. A fatally wounded Einrow stumbles into a bar to find Senzorin and gifts him a revolver, before passing on in Senzorin's arms. Senzorin continued his life as a burglar, though without much use for the riches he gathered, redistributed them among the poorer citizens of his neighbourhood in Mosskach. He spent most of his days whiling away time, not doing much else other than burglary, though he began to spend some time studying folklore in Mosskach's public libraries, intrigued by tales of the Goddess of Darkness.
 
 In 1892, Senzorin and his friends, Zel'eon, Arche, and Saziver, got into serious trouble with the EchoTech corporation after stealing one of their experimental chips. The four fled to Ilrinia, where they have enrolled into Arbalest Academy.
 
