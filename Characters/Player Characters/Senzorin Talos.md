@@ -11,7 +11,7 @@ In 1892, Senzorin and his friends, Zel'eon, Arche, and Saziver, got into serious
 Senzorin Talos is a sun elf male in his late teens of average height and physique. He bears a distinct knife scar on his right eye as a result of defying orders in his time as a gang member. His shoulder length hair is gold in colour, but he dyes it black to avoid people guessing at his sun elf heritage.
 # In-Game Statistics
 - STR: 5 = 4 + 1 from feat
-- DEX: 18
+- DEX: 20 
 - CON: 14 = 13 + 1 from race
 - INT: 14 = 13 + 1 from race
 - WIS: 14
