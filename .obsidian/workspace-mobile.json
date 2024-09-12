@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Species/Gh'borin.md",
+                "file": "Lore/Locations/Aenyrathia/Siddia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lore/Species/Gh'borin.md",
+            "file": "Lore/Locations/Aenyrathia/Siddia.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Lore/Species/Gh'borin.md",
+            "file": "Lore/Locations/Aenyrathia/Siddia.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Lore/Species/Gh'borin.md"
+            "file": "Lore/Locations/Aenyrathia/Siddia.md"
           }
         }
       }
@@ -133,8 +133,17 @@
   },
   "active": "35064db3da3e7284",
   "lastOpenFiles": [
-    "Lore/Species/Dwarf.md",
+    "Lore/Species/Untitled.md",
+    "Lore/Locations/Aenyrathia/Siddia.md",
+    "Lore/Locations/Aenyrathia/Ibuth/Mosskach.md",
+    "Lore/Locations/Aenyrathia/Ibuth/Bear Mountains.md",
+    "Lore/Locations/Aenyrathia/Desh.md",
+    "Lore/Locations/Aenyrathia/Miramor.md",
+    "Lore/Locations/Aenyrathia/Kharoq.md",
+    "Lore/Locations/Aenyrathia/Ibuth.md",
+    "Lore/Locations/Aenyrathia/Enoch.md",
     "Lore/Species/Gh'borin.md",
+    "Lore/Species/Dwarf.md",
     "Lore/Species/Tiefling.md",
     "Lore/Species/Aasimar.md",
     "Lore/Species/Cyrrans.md",
