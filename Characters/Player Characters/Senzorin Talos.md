@@ -129,11 +129,14 @@ Senzorin Talos is a sun elf male in his late teens of average height and physiqu
 ### Class: [Rogue](https://5e.tools/classes.html#rogue_phb)
 - Hit Dice: 5d8
 - Max HP: 38 = 31 + 7 (1d8) + 2 (CON modifier)
+- Proficiency Bonus: +3
+- Sneak Attack dice increased from 2d6 to 3d6
 
-#### Proficiency Bonus and Sneak Attack Improvement
+
+
+
+
+
+#### Uncanny Dodge
 *5th level rogue feature*
-- Proficiency Bonus +2 to +3
-- Sneak Attack 2d6 to 3d6
-
-### Feat: Uncanny Dodge
 - When an attacker that Senzo can see hits him with an attack, Senzo can use his reaction to halve the attack's damage against him.
