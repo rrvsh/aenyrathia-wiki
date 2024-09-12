@@ -3,20 +3,23 @@ Born on 3 Empyrea in the year 1875 in the city of Ilrinia, Senzorin is a product
 
 The next few years were a whirlwind for Senzorin - first living as an urchin on the crime ridden streets of Mosskach, he was soon recruited into a gang and made to sell dwarven mined drugs. He soon picked himself up a mentor in the form of Einrow Whitebeard, a former pirate captain who has blood ties to the gang. Einrow had turned to a life of burglary after getting bored of the high seas, and took Senzorin under his wing, teaching him the trade.
 
-In 1891, Einrow passed while on a burglary gone awry. Senzorin continued his life as a burglar, though without much use for the riches he gathered, redistributed them among the poorer citizens of Mosskach. He spent most of his days whiling away time, not doing much else other than burglary, though he began to spend some time studying folklore in Mosskach's public libraries.
+In 1891, on Senzorin's 16th birthday, Einrow passed while on a burglary gone awry. A fatally wounded Einrow stumbles into a bar to find Senzorin and gifts him a revolver, before passing on in Senzorin's arms. Senzorin continued his life as a burglar, though without much use for the riches he gathered, redistributed them among the poorer citizens of his neighbourhood in Mosskach. He spent most of his days whiling away time, not doing much else other than burglary, though he began to spend some time studying folklore in Mosskach's public libraries, intrigued by tales of the Goddess of Darkness.
 
 In 1892, Senzorin and his friends, Zel'eon, Arche, and Saziver, got into serious trouble with the EchoTech corporation after stealing one of their experimental chips. The four fled to Ilrinia, where they have enrolled into Arbalest Academy.
 
 # Physical Appearance
 Senzorin Talos is a sun elf male in his late teens of average height and physique. He bears a distinct knife scar on his right eye as a result of defying orders in his time as a gang member. His shoulder length hair is gold in colour, but he dyes it black to avoid people guessing at his sun elf heritage.
+
 # In-Game Statistics
 - STR: 5 = 4 + 1 from feat
-- DEX: 18
+- DEX: 20 = 18 + 2 from ASI 
 - CON: 14 = 13 + 1 from race
 - INT: 14 = 13 + 1 from race
 - WIS: 14
 - CHA: 16 = 14 + 2 from race
+
 ## Level 1
+
 ### Race: [Half-Elf](https://5e.tools/races.html#half-elf_phb)
 *Note: Senzorin is a sun elf in lore*
 - Ability Score Increase: CHA +2, CON +1, INT +1
@@ -51,6 +54,8 @@ Senzorin Talos is a sun elf male in his late teens of average height and physiqu
 *1st level rogue feature*
 - Can speak and understand thieves' cant
 - Can leave secret messages and symbols and understand them
+
+
 ## Level 2
 
 ### Class: [Rogue](https://5e.tools/classes.html#rogue_phb)
@@ -68,6 +73,8 @@ Senzorin Talos is a sun elf male in his late teens of average height and physiqu
 - Have 2 Exploit Dice at 2nd level, Exploit Dice is 1d4
 - Regain all Exploit Dice on short or long rest
 - **Exploit save DC** = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
+
+
 ## Level 3
 
 ### Class: [Rogue](https://5e.tools/classes.html#rogue_phb)
@@ -83,7 +90,7 @@ Senzorin Talos is a sun elf male in his late teens of average height and physiqu
 	- Mage Hand, Message, Minor Illusion
 - Can cast spells using spell slots, regain spell slots on long rest
 - Learn three 1st-level spells at 3rd level, learn more as level up
-	- Find Familiar, Unseen Servant, Disguise Self
+	- Find Familiar, Unseen Servant, Distort Value
 - Spell save DC = 8 + your proficiency bonus + your Intelligence modifier
 - Spell attack modifier = your proficiency bonus + your Intelligence modifier
 
@@ -93,6 +100,7 @@ Senzorin Talos is a sun elf male in his late teens of average height and physiqu
 - Can make mage hand invisible
 - Can use mage hand to stow or retrieve an object from a container worn or carried by another creature within range
 - Mage hand can use any set of tools you are proficient with
+
 
 ## Level 4
 
@@ -114,3 +122,18 @@ Senzorin Talos is a sun elf male in his late teens of average height and physiqu
 ### Feat: Prodigy
 - Gain proficiency in Initimidation, hacker's kit, and Orcish
 - Gain expertise in Persuasion
+
+
+## Level 5
+
+### Class: [Rogue](https://5e.tools/classes.html#rogue_phb)
+- Hit Dice: 5d8
+- Max HP: 38 = 31 + 7 (1d8) + 2 (CON modifier)
+
+#### Proficiency Bonus and Sneak Attack Improvement
+*5th level rogue feature*
+- Proficiency Bonus +2 to +3
+- Sneak Attack 2d6 to 3d6
+
+### Feat: Uncanny Dodge
+- When an attacker that Senzo can see hits him with an attack, Senzo can use his reaction to halve the attack's damage against him.
