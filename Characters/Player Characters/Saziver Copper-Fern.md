@@ -6,7 +6,7 @@ Saziver has recently developed psionic abilities, possibly as a result of exposu
 Saziver is a male gnome in his late teens, with a wiry frame. He has an ash-brown complexion and copper hair, each inherited from a different parent. He has a distinct nervous energy about him and is constantly fidgeting with his hands or whatever is in them at that moment.
 # In-Game Statistics
 - STR: 4
-- DEX: 14
+- DEX: 15 = 14 + 1 from feat
 - CON: 14 = 13 + 1 from race
 - INT: 20 = 18 + 2 from race
 - WIS: 17 = 14 + 1 from feat + 2 (ASI)
@@ -106,8 +106,10 @@ Saziver is a male gnome in his late teens, with a wiry frame. He has an ash-brow
 - Max HP: 26 = 20 + 4 (1d6) + 2 (CON modifier)
 ### Ability Score Improvement
 - +2 WIS
-### Feat: [Inspiring Leader](https://5e.tools/feats.html#inspiring%20leader_phb)
-- Spend 10 minutes inspiring your companions. Choose up to six friendly creatures within 30 feet. Each gains temporary hit points equal to your level + your Charisma modifier. Can’t gain temporary hit points from this feat again until finishing a short or long rest.
+### Feat: [Fade Away](https://5e.tools/feats.html#fade%20away_xge)
+- Your people are clever, with a knack for illusion magic. You have learned a magical trick for fading away when you suffer harm. You gain the following benefits:
+	Increase your Dexterity or Intelligence by 1, to a maximum of 20.
+	Immediately after you take damage, you can use a reaction to magically become invisible until the end of your next turn or until you attack, deal damage, or force someone to make a saving throw. Once you use this ability, you can't do so again until you finish a short or long rest.
 #### Psionics
 *4th level class features*
 - Learn 1 cantrip and 1 spell at 4th level
