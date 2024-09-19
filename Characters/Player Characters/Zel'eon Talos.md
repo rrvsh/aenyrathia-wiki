@@ -87,3 +87,12 @@ Character's appearance as seen by others
   You can attack twice, rather than once, whenever you take the Attack action on your turn.
   Each of your Enhancements can bear a single Infusion usually meant for the following objects: Mobility (boots), Nimble (gauntlets), Power (armor), Visual (helm, goggles).
   Your Blade counts as magical for the sake of overcoming resistance and immunity to non-magical attacks.
+  
+- Visual Enhancement. You modify one of your eyes. You can add your Intelligence modifier (minimum of +1) to any checks you make that rely on your sense of sight.
+
+- Infusion: Radiant Weapon
+  As a bonus action, the wielder can cause this weapon to emit bright light in a 30-foot radius, and dim light 30 feet beyond that. The wielder can extinguish the light as a bonus action.
+  This magical weapon has 4 charges. When its wielder hits a creature with this weapon, it can expend 1 charge and force its target to make a Constitution saving throw. On a failure, it is blinded until the beginning of your next turn. This weapon regains all expended charges at dawn.
+  At 11th level, this weapon grants a +1 bonus to its attack and damage rolls. This bonus increases to +2 at 17th leve
+
+# Spell List
