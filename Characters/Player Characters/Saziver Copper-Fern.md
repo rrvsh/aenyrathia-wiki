@@ -119,11 +119,13 @@ Saziver is a male gnome in his late teens, with a wiry frame. He has an ash-brow
 - Hit Dice: 5d6
 - Max HP: 33 = 26 + 5 (1d6) + 2 (CON modifier)
 - Expend Psi Points equal to spell level to cast spell
+#### Psionics
+*1st level Psion feature*
+- Learn 1 spell 3rd Mental Limit
+	- Slow
 #### Empath Spell
 *5th level Psion (Empath) feature*
 - Learn Fear
-- Learn 1 spell
-	- Slow
 #### Mystic Talents
 *5th level Psion feature*
 - Learn 1 Mystic Talents: 
