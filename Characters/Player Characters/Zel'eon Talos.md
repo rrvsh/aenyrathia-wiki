@@ -70,9 +70,20 @@ Character's appearance as seen by others
 ### Class: Artificer
 - Hit Dice: 4d8
 - Max HP: 41
- #### Example Feature
+ 
 *4rd level feature*
 - Feature description:
   ASI Improvement:
   Con +2
   Feat: Spellsword
+# Level 5
+### Class: Artificer
+- Hit Dice: 5d8
+- Max HP: 52
+- 
+*5th level feature*
+- Feature description:
+- You have improved your modifications to further augment your combat abilities. You gain the following benefits:
+  You can attack twice, rather than once, whenever you take the Attack action on your turn.
+  Each of your Enhancements can bear a single Infusion usually meant for the following objects: Mobility (boots), Nimble (gauntlets), Power (armor), Visual (helm, goggles).
+  Your Blade counts as magical for the sake of overcoming resistance and immunity to non-magical attacks.
