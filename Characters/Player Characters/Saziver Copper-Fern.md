@@ -72,7 +72,7 @@ Saziver is a male gnome in his late teens, with a wiry frame. He has an ash-brow
 *2nd level Psion feature*
 - Learn 2 Mystic Talents:
 	- Precognition I. Cannot be surprised unless unconscious, asleep, or incapacitated, and gain a bonus to initiative equal to INT modifier
-	- Telepathy I. Can telepathically communicate with up to one creature within 60ft.
+	- Metamorphosis I. Whenever you make an unarmed strike, manifest psionic strike, or make a Strength check, you can use your Intelligence in place of Strength.
 ## Level 3
 ### Class: [Psion](https://5e.tools/classes.html#psion_llps)
 - Hit Dice: 3d6
@@ -98,7 +98,7 @@ Saziver is a male gnome in his late teens, with a wiry frame. He has an ash-brow
 - Learn 1 Mystic Talents:
 	- Iron Durability I. So long as you are not wearing armor or wielding a shield, your Armor Class is equal to 13 + your Intelligence modifier.
 #### Empath Spell
-*3re level Psion (Empath) feature*
+*3rd level Psion (Empath) feature*
 - Learn Calm Person
 ## Level 4
 ### Class: [Psion](https://5e.tools/classes.html#psion_llps)
@@ -112,5 +112,19 @@ Saziver is a male gnome in his late teens, with a wiry frame. He has an ash-brow
 	Immediately after you take damage, you can use a reaction to magically become invisible until the end of your next turn or until you attack, deal damage, or force someone to make a saving throw. Once you use this ability, you can't do so again until you finish a short or long rest.
 #### Psionics
 *4th level class features*
-- Learn 1 cantrip and 1 spell at 4th level
+- Learn 1 cantrip and 1 spell
 	- Mind Sliver, Tasha's Mind Whip
+## Level 5
+### Class: [Psion](https://5e.tools/classes.html#psion_llps)
+- Hit Dice: 5d6
+- Max HP: 33 = 26 + 5 (1d6) + 2 (CON modifier)
+- Expend Psi Points equal to spell level to cast spell
+#### Empath Spell
+*5th level Psion (Empath) feature*
+- Learn Fear
+- Learn 1 spell
+	- Slow
+#### Mystic Talents
+*5th level Psion feature*
+- Learn 1 Mystic Talents: 
+	- Precognition II (Prerequisite: 5th-level Psion, Precognition I): When you are hit by an attack that you can see, you can use your reaction to add 1d4 to your Armor Class against that attack.
