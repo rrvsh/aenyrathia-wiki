@@ -49,3 +49,6 @@ As the team return home from the interrupted rally, they are attacked by a power
 ## [[Session 13 (31 August 2024)|Story So Far/Session 13 (31 August 2024)]]
 *13th of Lunaris 1892 - 14th of Lunaris 1892*
 The team boards a smugglers' ferry supposed to be headed to Mosskach, but end up getting double crossed as the smugglers try to rob them. They defeat the smugglers, commandeer a boat and sail inland, meeting Dregdul once more and end the session once more entering Mosskach.
+## [[Session 14 (21 September 2024)|Story So Far/Session 14 (21 September 2024)]]
+*14th of Lunaris 1892 - 2nd of Empyrea 1892*
+The team finally arrives back in Mosskach. They reunite with their friends and family and begin preparations to attack the Peakers.

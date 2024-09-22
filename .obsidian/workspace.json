@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d8f4db8b21b5a8c9",
+        "id": "6d6be162e8209fcf",
         "type": "tabs",
         "children": [
           {
-            "id": "b702c7dd7aa86c27",
+            "id": "13ac84545d834ed9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Locations/Aenyrathia/Ibuth/Mosskach.md",
+                "file": "Story So Far.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Locations/Aenyrathia/Ibuth/Mosskach.md",
+                "file": "Story So Far.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Locations/Aenyrathia/Ibuth/Mosskach.md",
+                "file": "Story So Far.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Locations/Aenyrathia/Ibuth/Mosskach.md"
+                "file": "Story So Far.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -163,37 +163,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b702c7dd7aa86c27",
+  "active": "13ac84545d834ed9",
   "lastOpenFiles": [
     "Story So Far.md",
+    "Lore/Species/Vyrkani.md",
+    "Lore/Species/Tiefling.md",
+    "Lore/Species/Sun Elves.md",
+    "Lore/Species/Rah'Zuhari.md",
+    "Lore/Species/Humans.md",
+    "Lore/Species/Gnomes.md",
+    "Lore/Species/Gh'borin.md",
+    "Lore/Species/Dwarf.md",
+    "Lore/Species/Cyrrans.md",
+    "Lore/Species/Aasimar.md",
+    "Lore/Locations/Aenyrathia/Siddia.md",
+    "Lore/Locations/Aenyrathia/Miramor.md",
+    "Lore/Locations/Aenyrathia/Kharoq.md",
+    "Lore/Locations/Aenyrathia/Ibuth/Bear Mountains.md",
+    "Lore/Locations/Aenyrathia/Enoch.md",
+    "Lore/Locations/Aenyrathia/Desh.md",
+    "Home/Aenyrathia_World_Map_v1.png",
+    "Characters/Major NPCs/Dregdul.md",
+    "Characters/Major NPCs",
+    "Characters/Major NPCs.md",
+    "Story So Far/Session 13 (31 August 2024).md",
     "Story So Far/Session 09 (6 July 2024).md",
     "Story So Far/Session 08 (1 June 2024).md",
     "Story So Far/Session 07 (30 May 2024).md",
     "Story So Far/Session 06 (26 May 2024).md",
     "Story So Far/Session 05 (19 May 2024).md",
     "Story So Far/Session 04 (11 May 2024).md",
-    "Story So Far/Session 03 (20 April 2024).md",
-    "Story So Far/Session 02 (06 April 2024).md",
-    "Lore.md",
-    "Characters/Player Characters/Arche Kagekiyo.md",
-    "Home.md",
-    "Player Resources/House Rules.md",
-    "Player Resources.md",
-    "Characters/Player Characters.md",
-    "Characters/Player Characters/Zel'eon Talos.md",
-    "Characters/Player Characters/Senzorin Talos.md",
-    "Characters/Player Characters/Saziver Copper-Fern.md",
-    "Characters.md",
-    "Story So Far/Session 01 (30 March 2024).md",
-    "Locations.md",
-    "Story So Far/Session 10.2 (27 July 2024).md",
-    "Lore/Locations/Aenyrathia/Ibuth.md",
-    "Lore/Locations/Aenyrathia/Ibuth/Mosskach.md",
     "Lore/Locations/Aenyrathia",
     "Lore/Locations/Aenyrathia/Desh",
     "Lore/Locations/Aenyrathia/Ibuth",
-    "Lore/Species/Orcs.md",
-    "Lore/Magic and Technology/Orichalcum.md",
     "Lore/Species",
     "Lore/Magic and Technology",
     "Characters/Player Characters",
