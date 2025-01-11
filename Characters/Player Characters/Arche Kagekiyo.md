@@ -21,7 +21,7 @@ Arche is a female sun elf in her late teens, standing at a height of 5'8". She k
 - Tools: longsword, shortsword, shortbow, longbow
 - Darkvision 60ft.
 - Fey Ancestry. Adv. on saves vs charm, and can't be put to sleep by magic
-- Know the cantrip shape water
+- Know the cantrip Booming blade
 ### Background: Custom
 - Skills: Medicine, Religion
 - Languages: none
