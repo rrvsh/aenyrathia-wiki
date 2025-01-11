@@ -63,7 +63,7 @@ Arche is a female sun elf in her late teens, standing at a height of 5'8". She k
 - Can use once per short or long rest from the following options:
 	- Turn Undead: As an action, make all undead within 30ft run away from you upon failing WIS save
 	- Harness Divine Power: Bonus action to regain one expended spell slot up to level equals to half your proficiency bonus
-	- Twilight Sanctuary: Action to cast 30ft radius sphere, lasts for 1 minute, if creature ends turn in sphere, you can end one charmed/frightened effect, all allies in sphere get prof bonus + WIS mod damage reduction once per round
+	- Twilight Sanctuary: Action to cast 30ft radius sphere, lasts for 1 minute, if creature ends turn in sphere, you can end one charmed/frightened effect, all allies in sphere get prof bonus + Cleric level damage reduction once per round
 ## Level 3
 ### Class: Cleric
 - Hit Dice: 3d8
@@ -79,3 +79,10 @@ Arche is a female sun elf in her late teens, standing at a height of 5'8". She k
 - +1 2nd level spell slot
 - ASI +1 to WIS = 20 / +1 to DEX = 17
 - New Feat: Eldritch initiate, eldritch sight
+
+
+## Level 5
+## Class: Cleric
+- Hit Dice 5d8
+- Max Hp 47 = 37 + 10 (1d8 +2)
+- +2 3rd level spell slots, +1 prepared spell
