@@ -110,6 +110,7 @@ Senzorin Talos is a sun elf male in his late teens of average height and physiqu
 ### Feat: Prodigy
 - Gain proficiency in Initimidation, hacker's kit, and Orcish
 - Gain expertise in Persuasion
+
 ## Level 5
 
 ### Class: [Rogue](https://5e.tools/classes.html#rogue_phb)
@@ -120,3 +121,14 @@ Senzorin Talos is a sun elf male in his late teens of average height and physiqu
 #### Uncanny Dodge
 *5th level rogue feature*
 - When an attacker that Senzo can see hits him with an attack, Senzo can use his reaction to halve the attack's damage against him.
+
+## Level 6
+
+### Class: [Rogue](https://5e.tools/classes.html#rogue_phb)
+- Hit Dice: 6d8
+- Max HP: 47 = 38 + 7 (1d8) + 2 (CON modifier)
+- Proficiency Bonus: +3
+
+#### Expertise
+*6th level rogue feature*
+- Senzo can choose two more of his proficiencies (in skills or with thieves' tools) to gain the benefit of Expertise. Insight and Perception.
