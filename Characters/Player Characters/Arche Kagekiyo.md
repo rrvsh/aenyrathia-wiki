@@ -86,3 +86,11 @@ Arche is a female sun elf in her late teens, standing at a height of 5'8". She k
 - Hit Dice 5d8
 - Max Hp 47 = 37 + 10 (1d8 +2)
 - +2 3rd level spell slots, +1 prepared spell
+
+## Level 6
+## CLass: Cleric
+- Hit Dice 6d8
+- Mas Hp 57 = 47 + 10 (1d8 + 2)
+-  1 lvl 3 spell slot + 1 prepared spell
+- Steps of Night: Starting at 6th level, you can draw on the mystical power of night to rise into the air. As a bonus action when you are in dim light or darkness, you can magically give yourself a flying speed equal to your walking speed for 1 minute. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+- +1 Channel divinity slot per short rest
