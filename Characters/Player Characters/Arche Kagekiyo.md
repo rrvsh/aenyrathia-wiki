@@ -21,11 +21,11 @@ Arche is a female sun elf in her late teens, standing at a height of 5'8". She k
 - Tools: longsword, shortsword, shortbow, longbow
 - Darkvision 60ft.
 - Fey Ancestry. Adv. on saves vs charm, and can't be put to sleep by magic
-- Know the cantrip Booming blade
+- Know the cantrip Booming blade (racial feature)
 ### Background: Custom
 - Skills: Medicine, Religion
 - Languages: none
-- Tools: none (should pick two)
+- Tools: Viol (instrument) 
 ### Feat: Fey Touched
 - Ability Score Increase: WIS +1
 - Learn Misty Step, Identify
@@ -73,7 +73,7 @@ Arche is a female sun elf in her late teens, standing at a height of 5'8". She k
 - Can use once per short or long rest from the following options:
 	- Turn Undead: As an action, make all undead within 30ft run away from you upon failing WIS save
 	- Harness Divine Power: Bonus action to regain one expended spell slot up to level equals to half your proficiency bonus
-	- Twilight Sanctuary: Action to cast 30ft radius sphere, lasts for 1 minute, if creature ends turn in sphere, you can end one charmed/frightened effect, all allies in sphere get prof bonus + Cleric level damage reduction once per round
+	- Twilight Sanctuary: Action to cast 30ft radius sphere, lasts for 1 minute, if creature ends turn in sphere, you can end one charmed/frightened effect, all allies in sphere get prof bonus + Cleric level damage reduction once per round. Overrides natural light with dim light. 
 ## Level 3
 ### Class: Cleric
 - Hit Dice: 3d8
@@ -87,7 +87,7 @@ Arche is a female sun elf in her late teens, standing at a height of 5'8". She k
 - +2 prepared spells (19 > 20 WIS + level up)
 - +1 2nd level spell slot
 - ASI +1 to WIS = 20 / +1 to DEX = 17
-- New Feat: Eldritch initiate, eldritch sight
+- New Feat: Eldritch adept. Grants one warlock invocation for free. Eldritch sight: Cast detect magic for free
 ## Level 5
 ## Class: Cleric
 - Hit Dice 5d8
@@ -98,5 +98,5 @@ Arche is a female sun elf in her late teens, standing at a height of 5'8". She k
 - Hit Dice: 6d8
 - Mas Hp 57 = 47 + 10 (1d8 + 2)
 -  1 lvl 3 spell slot + 1 prepared spell
-- Steps of Night: Starting at 6th level, you can draw on the mystical power of night to rise into the air. As a bonus action when you are in dim light or darkness, you can magically give yourself a flying speed equal to your walking speed for 1 minute. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+- Steps of Night: As a bonus action, when in dim light or darkness give flying speed equal to movement speed for a minute. Can use a number of times equal to prof bonus, recharges on long rest
 - +1 Channel divinity slot per short rest
