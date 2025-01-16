@@ -1,1 +1,2 @@
-# Session 17 (10 January 2025)
+# XP
+Krimewatch is now at 14,000 experience points, advancing them to level 6.
