@@ -47,7 +47,7 @@ Character's appearance as seen by others
 - Skills: Investigation (Class), Nature (Class)
 #### Feature
 *1st level Artificer feature*
-- Feature description:
+Feature description:
 - Magical Tinker:
   Your insights into magical and mechanical objects can appear as magic to the untrained eye. Starting from 1st level, you can use tinker's tools to cast the mending Cantrip and both detect magic and identify as rituals. Your tools are the spellcasting focus and replace the material components of the spells.
   Moreover, the time it would take you to craft a magic item is halved if you are proficient with appropriate artisan's tools.
@@ -64,9 +64,9 @@ Character's appearance as seen by others
 - Hit Dice: 2d8
 - Max HP: 19
 #### Feature
-*2nd level feature*
-- Feature description:
-  Spell Casting
+*2nd level Artificer feature*
+Feature description:
+- Spell Casting
   Save DC: 8 + PB + INT
   Spell ATK: PB + INT
   Spells Slots: 3 1st Level, 3 Spells Known, 2 Cantrips Known
@@ -78,12 +78,12 @@ Character's appearance as seen by others
 - Max HP: 27
  #### Feature
 *3rd level Artificer feature*
-- Feature description:
+Feature description:
 - Arcane Recharge:
   Starting at 3rd level, during the course of a short rest, you can recover expended spell slots of a combined level equal to your Intelligence modifier. After you do, you must complete a long rest before you can use this feature again.
   At 11th level, you can use this feature to cause one Infused item or magic item you touch to regain any Charges it would normally regain at dawn, in place of regaining spell slots.
  *3rd level Enhanced feature*
- - Feature Description
+Feature Description
  - Tools of the Trade:
     3rd-level Enhanced Specialization feature
     You gain proficiency with leatherworker's and smith's tools.
@@ -106,8 +106,8 @@ Character's appearance as seen by others
 - Max HP: 41
  
 *4th level Artificer feature*
-- Feature description:
-  ASI Improvement:
+Feature description:
+- ASI Improvement:
   Con +2
 - Feat: Spellsword Adept:
   You have trained to combine your minor magics with weapon attacks. You gain the benefits listed below:
@@ -121,7 +121,7 @@ Character's appearance as seen by others
 - Max HP: 52
 
 *5th level Enhanced feature*
-- Feature description:
+Feature description:
 - Bonus Enhancements:
   You find it easier to innovate and invent when working with your own body. Your number of Infusions Known increases by 1, but this bonus Infusion must be applied to part of your body with your Modular Physique feature.
   Your total number of Infusions Known increases by 1 again at 10th and 15th level, but both of these additional Infusions must also be applied to part of your body with your Modular Physique feature as well.
@@ -134,7 +134,7 @@ Character's appearance as seen by others
 - Hit Dice: 6d8
 - Max HP: 64
 *6th level Artificer feature*
-- Feature description:
+Feature description:
   Flash of Genius: 
 - You can offer potent insight at a moment's notice. Starting at 6th level, when you or a creature who can hear you within 30 feet, makes an ability check or saving throw, you can use your reaction to add your Intelligence modifier to that roll.You can use this reaction a number of times equal to your Intelligence modifier (a minimum of once), and you regain all of your expended uses when you complete a long rest.
 # Spell List
