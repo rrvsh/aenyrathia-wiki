@@ -13,7 +13,7 @@ Character's appearance as seen by others
 - INT: 18
 - WIS: 13
 - CHA: 16 = 14 +1 from Race + 1 from Feat
-# Proficincies
+# Proficiencies
 - Armor Proficiencies: All Armor, Shields,
 - Weapon Proficiencies: Simple weapons, hand crossbows, (firearms)
 - Tools: Leather (Enhanced), Healer Kit, Tinkers, Smith (Enhanced), Vehicles (Land)
@@ -48,14 +48,14 @@ Character's appearance as seen by others
 #### Feature
 *1st level Artificer feature*
 - Feature description:
-- Magical Tinker
+- Magical Tinker:
   Your insights into magical and mechanical objects can appear as magic to the untrained eye. Starting from 1st level, you can use tinker's tools to cast the mending Cantrip and both detect magic and identify as rituals. Your tools are the spellcasting focus and replace the material components of the spells.
   Moreover, the time it would take you to craft a magic item is halved if you are proficient with appropriate artisan's tools.
-- Replicate Magic Item
+- Replicate Magic Item:
   You can also use your Infusions to replicate magic items you have studied. During a long rest, you can spend 1 hour using tinker's tools to examine a magic item you touch. At the end of that long rest, you can replace one Infusion you know with the knowledge of this magic item. After which, you can infuse an object with the properties of that magic item, following all the rules for your other Infusions.
   You cannot use this feature to replicate magic items that are consumed after one use, such as scrolls and potions.
   You can use this feature to replicate any item of Common rarity. As you gain Artificer levels you can use this feature to replicate items of increasing rarity: Uncommon at 5th level, Rare at 11th level, and finally Very Rare items at 17th level.
-- Infusions
+- Infusions:
   You have learned to imbue objects with your signature brand of magic in order to produce wondrous items. At 1st level, you learn two Infusions of your choice from the list at the end of this class. The Infusions Known column of the Artificer table shows when you learn additional Infusions. You cannot learn an Infusion more than once unless specified. During each long rest, you can spend 1 hour using tinker's tools to replace one Infusion you know with another Infusion of your choice, so long as you meet all of its prerequisites.
  
   
@@ -70,7 +70,7 @@ Character's appearance as seen by others
   Save DC: 8 + PB + INT
   Spell ATK: PB + INT
   Spells Slots: 3 1st Level, 3 Spells Known, 2 Cantrips Known
-- Tinker's Insight 
+- Tinker's Insight: 
   Also at 2nd level, your expert understanding of the magic of artifice allows you to bypass normal magic item restrictions. You can attune to and use any magic item regardless of any alignment, class, player race, or spell requirements, and you can choose touse your ArtificerSpell save DCin place ofthe magicitem's DC.
  # Level 3
 ### Class: Artificer
@@ -84,11 +84,11 @@ Character's appearance as seen by others
   At 11th level, you can use this feature to cause one Infused item or magic item you touch to regain any Charges it would normally regain at dawn, in place of regaining spell slots.
  *3rd level Enhanced feature*
  - Feature Description
- - Tools of the Trade
+ - Tools of the Trade:
     3rd-level Enhanced Specialization feature
     You gain proficiency with leatherworker's and smith's tools.
     If you are already proficient with these tools, you instead gain proficiency with a set of artisan's tools of your choice.
-  - Modular Physique
+  - Modular Physique:
     You can improved your physical form with mechanical
     and arcane enhancements. Your body itself counts as individual items for the purposes of Infusions: your
     head (helmet), torso (armor), arms (gauntlets), and legs (boots). Each of these body parts can bear one Infusion.
@@ -96,7 +96,7 @@ Character's appearance as seen by others
     If you are not wearing armor, your Armor Class is equal to
     10 + your Dexterity modifier + your Intelligence modifier.
     You can use a shield and still gain this benefit, and any Infusions incorporated into your torso benefit this AC.
-   - Hidden Blade
+   - Hidden Blade:
      You have modified one of your arms with a Hidden Blade that can be extended or retracted as a bonus action. This Hidden Blade is a simple weapon with the finesse property, and on hit, it deals 1d10 piercing or slashing damage.
      Your Hidden Blade is considered a magical weapon, but it can still bear one of your Infusions. It can also be used as the spellcasting focus for your Artificer spells when extended.
 
@@ -109,7 +109,7 @@ Character's appearance as seen by others
 - Feature description:
   ASI Improvement:
   Con +2
-- Feat: Spellsword Adept
+- Feat: Spellsword Adept:
   You have trained to combine your minor magics with weapon attacks. You gain the benefits listed below:
   Increase your Strength, Dexterity, or Constitution score by 1, up to a maximum of 20.
   You learn two Cantrips of your choice from the Magus spell list, choosing Intelligence, Wisdom, or Charisma as your spellcasting ability for these Magus Cantrips. At least one of these Cantrips must deal damage.
@@ -122,11 +122,11 @@ Character's appearance as seen by others
 
 *5th level Enhanced feature*
 - Feature description:
-- Bonus Enhancements
+- Bonus Enhancements:
   You find it easier to innovate and invent when working with your own body. Your number of Infusions Known increases by 1, but this bonus Infusion must be applied to part of your body with your Modular Physique feature.
   Your total number of Infusions Known increases by 1 again at 10th and 15th level, but both of these additional Infusions must also be applied to part of your body with your Modular Physique feature as well.
   
- - Extra Attack 
+ - Extra Attack: 
    You can attack twice, instead of once, when you take the Attack action. Also, when you use your action to cast a spell, you can make one Hidden Blade attack as a bonus action
   
 # Level 6
@@ -135,7 +135,7 @@ Character's appearance as seen by others
 - Max HP: 64
 *6th level Artificer feature*
 - Feature description:
-  Flash of Genius 
+  Flash of Genius: 
 - You can offer potent insight at a moment's notice. Starting at 6th level, when you or a creature who can hear you within 30 feet, makes an ability check or saving throw, you can use your reaction to add your Intelligence modifier to that roll.You can use this reaction a number of times equal to your Intelligence modifier (a minimum of once), and you regain all of your expended uses when you complete a long rest.
 # Spell List
 - Cantrips: Frostbite, Green-Flame Blade, Shocking Grasp, True Strike (SA), Ray of Frost(SA), FireBolt(IN), Mending
