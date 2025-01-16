@@ -47,17 +47,17 @@ The team develop their individual skills as connections, Senzorin and Arche deve
 *12th of Lunaris 1892 - 13th of Lunaris 1892*  
 As the team return home from the interrupted rally, they are attacked by a powerful panther-like wood elf. Fearing they would put anyone they hid with in danger, they take a bus to Brunswick, intending to flee to Mosskach on a ferry.
 ## [[Session 13 (31 August 2024)|Story So Far/Session 13 (31 August 2024)]]
-*13th of Lunaris 1892 - 14th of Lunaris 1892* 
+*13th of Lunaris 1892 - 14th of Lunaris 1892*  
 The team boards a smugglers' ferry supposed to be headed to Mosskach, but end up getting double crossed as the smugglers try to rob them. They defeat the smugglers, commandeer a boat and sail inland, meeting Dregdul once more and end the session once more entering Mosskach.
 ## [[Session 14 (21 September 2024)|Story So Far/Session 14 (21 September 2024)]]
-*14th of Lunaris 1892 - 2nd of Empyrea 1892* 
+*14th of Lunaris 1892 - 2nd of Empyrea 1892*  
 The team finally arrives back in Mosskach. They reunite with their friends and family and begin preparations to attack the Peakers.
 ## [[Session 15 (27 October 2024)|Story So Far/Session 15 (27 October 2024)]]
-*3rd of Empyrea 1892* 
+*3rd of Empyrea 1892*  
 Saziver hacks into a captured Peaker member's phone and finds out the location of one of their bases. They raid the base, an apartment complex, and capture a logistics officer as well as rescuing a young boy.
 ## [[Session 16 (31 December 2024)|Story So Far/Session 16 (31 December 2024)]]
-*4th of Empyrea 1892* 
+*4th of Empyrea 1892*  
 Krimewatch sniffs out a planned Peaker ambush on the clinic serving as their home base and foil it. They receive a distress call from Saziver and find out that an attempted Peaker attack on his home lead to him losing himself to Aleph_Null. Laura, a captured Peaker member, gives them information on a Peaker/EchoTech operation in Sector 6 that the group dismantle.
 ## [[Session 17 (10 January 2025)|Story So Far/Session 17 (10 January 2025)]]
-*5th of Empyrea 1892* 
+*5th of Empyrea 1892*  
 Krimewatch begins searching for ways to use the footage they captured from the EchoTech facility to malign their reputation. They meet Thoren Grizby, a PI in Sector 5, who is not much help to them, but tells them about a small gang in Sector 5 called the Shadewalkers. Krimewatch tracks one of the Shadewalkers down and manages to convince them to help spy on the Peakers for them. They head to a nightclub, Winter, in Sector 3 to see if there is any Peaker activity there, but end up running into trouble when they meet Ray Shelby, the leader of the Peakers.
