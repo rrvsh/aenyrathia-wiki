@@ -52,9 +52,9 @@ The team boards a smugglers' ferry supposed to be headed to Mosskach, but end up
 ## [[Session 14 (21 September 2024)|Story So Far/Session 14 (21 September 2024)]]
 *14th of Lunaris 1892 - 2nd of Empyrea 1892*
 The team finally arrives back in Mosskach. They reunite with their friends and family and begin preparations to attack the Peakers.
-## [[Story So Far/Session 15 (27 October 2024)|Story So Far/Session 15 (27 October 2024)]]
+## [[Session 15 (27 October 2024)|Story So Far/Session 15 (27 October 2024)]]
 *3rd of Empyrea 1892*
 Saziver hacks into a captured Peaker member's phone and finds out the location of one of their bases. They raid the base, an apartment complex, and capture a logistics officer as well as rescuing a young boy.
-## [[Story So Far/Session 16 (31 December 2024)|Story So Far/Session 16 (31 December 2024)]]
+## [[Session 16 (31 December 2024)|Story So Far/Session 16 (31 December 2024)]]
 *4th of Empyrea 1892*
 Krimewatch sniffs out a planned Peaker ambush on the clinic serving as their home base and foil it. They receive a distress call from Saziver and find out that an attempted Peaker attack on his home lead to him losing himself to Aleph_Null. Laura, a captured Peaker member, gives them information on a Peaker/EchoTech operation in Sector 6 that the group dismantle.
