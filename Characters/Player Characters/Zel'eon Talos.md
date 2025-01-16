@@ -57,6 +57,8 @@ Character's appearance as seen by others
   Save DC: 8 + PB + INT
   Spell ATK: PB + INT
   Spells Slots: 3 1st Level, 3 Spells Known, 2 Cantrips Known
+  Tinker's Insight 
+  Also at 2nd level, your expert understanding of the magic of artifice allows you to bypass normal magic item restrictions. You can attune to and use any magic item regardless of any alignment, class, player race, or spell requirements, and you can choose touse your ArtificerSpell save DCin place ofthe magicitem's DC.
  # Level 3
 ### Class: Artificer
 - Hit Dice: 3d8
@@ -66,6 +68,9 @@ Character's appearance as seen by others
 - Feature description:
   Enhancements;
   Power Enhancements, Add INT to STR Checks
+  Arcane Recharge
+  Starting at 3rd level, during the course of a short rest, you can recover expended spell slots of a combined level equal to your Intelligence modifier. After you do, you must complete a long rest before you can use this feature again.
+  At 11th level, you can use this feature to cause one Infused item or magic item you touch to regain any Charges it would normally regain at dawn, in place of regaining spell slots.
  # Level 4
 ### Class: Artificer
 - Hit Dice: 4d8
@@ -94,5 +99,13 @@ Character's appearance as seen by others
   As a bonus action, the wielder can cause this weapon to emit bright light in a 30-foot radius, and dim light 30 feet beyond that. The wielder can extinguish the light as a bonus action.
   This magical weapon has 4 charges. When its wielder hits a creature with this weapon, it can expend 1 charge and force its target to make a Constitution saving throw. On a failure, it is blinded until the beginning of your next turn. This weapon regains all expended charges at dawn.
   At 11th level, this weapon grants a +1 bonus to its attack and damage rolls. This bonus increases to +2 at 17th leve
-
+# Level 6
+### Class: Artificer
+- Hit Dice: 6d8
+- Max HP: 64
+- 
+*6th level feature*
+- Feature description:
+- Flash of Genius 
+- You can offer potent insight at a moment's notice. Starting at 6th level, when you or a creature who can hear you within 30 feet, makes an ability check or saving throw, you can use your reaction to add your Intelligence modifier to that roll.You can use this reaction a number of times equal to your Intelligence modifier (a minimum of once), and you regain all of your expended uses when you complete a long rest.
 # Spell List
