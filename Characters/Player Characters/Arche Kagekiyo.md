@@ -32,8 +32,8 @@ Arche is a female sun elf in her late teens, standing at a height of 5'8". She k
 ### Class: Cleric
 - Hit Dice: 1d8
 - Max HP: 10 = 8 (1d8) + 2 (CON mod)
-- Armor Proficiencies: all
-- Weapon Proficiencies: all
+- Armor Proficiencies: all (subclass adds heavy)
+- Weapon Proficiencies: all (subclass adds martial)
 - Tools: none
 - Saving Throw Proficiencies: WIS, CHA
 - Skills: History, Insight
@@ -43,7 +43,7 @@ Arche is a female sun elf in her late teens, standing at a height of 5'8". She k
 - As an action, can share Darkvision with number of creatures up to WIS mod for one hour, once per long rest (can expend spell slot to use more than once per long rest)
 #### Vigilant Blessing
 *1st level twilight cleric feature*
-- As an action, give one creature advantage on initiative 
+- As an action, give one creature advantage on their next initiative roll.
 #### Spellcasting
 *1st level cleric feature*
 - Can prepare spells equal to WIS mod + cleric level every long rest
@@ -51,7 +51,17 @@ Arche is a female sun elf in her late teens, standing at a height of 5'8". She k
 - Spell attack modifier = your proficiency bonus + your Wisdom modifier
 #### Domain Spells
 *1st level twilight cleric feature*
-- Following spells are always prepared and don't count against preparation limit: faerie fire, sleep, moonbeam, see invisibility, aura of vitality, Leomund's tiny hut, aura of life, greater invisibility, circle of power, mislead
+- Following spells are always prepared and don't count against preparation limit: 
+	- faerie fire
+	- sleep
+	- moonbeam
+	- see invisibility
+	- aura of vitality
+	- Leomund's tiny hut
+	- aura of life
+	- greater invisibility
+	- circle of power
+	- mislead
 ## Level 2
 ### Class: Cleric
 - Hit Dice: 2d8
@@ -70,7 +80,6 @@ Arche is a female sun elf in her late teens, standing at a height of 5'8". She k
 - Max HP: 27 = 20 + 5 (1d8) + 2 (CON mod)
 - +1 1st level spell slot, +2 2nd level spell slots
 - +1 prepared spell (7 total)
-
 ## Level 4
 ### Class: Cleric
 - Hit Dice: 4d8
@@ -79,17 +88,14 @@ Arche is a female sun elf in her late teens, standing at a height of 5'8". She k
 - +1 2nd level spell slot
 - ASI +1 to WIS = 20 / +1 to DEX = 17
 - New Feat: Eldritch initiate, eldritch sight
-
-
 ## Level 5
 ## Class: Cleric
 - Hit Dice 5d8
-- Max Hp 47 = 37 + 10 (1d8 +2)
+- Max Hp 47 = 37 + 10 (1d8 + 2)
 - +2 3rd level spell slots, +1 prepared spell
-
 ## Level 6
 ## CLass: Cleric
-- Hit Dice 6d8
+- Hit Dice: 6d8
 - Mas Hp 57 = 47 + 10 (1d8 + 2)
 -  1 lvl 3 spell slot + 1 prepared spell
 - Steps of Night: Starting at 6th level, you can draw on the mystical power of night to rise into the air. As a bonus action when you are in dim light or darkness, you can magically give yourself a flying speed equal to your walking speed for 1 minute. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
