@@ -24,7 +24,7 @@ Arche is a female sun elf in her late teens, standing at a height of 5'8". She k
 - Know the cantrip Booming blade (racial feature)
 ### Background: Custom
 - Skills: Medicine, Religion
-- Languages: none
+- Languages: Celestial (she has no clue she can speak this)
 - Tools: Viol (instrument) 
 ### Feat: Fey Touched
 - Ability Score Increase: WIS +1
