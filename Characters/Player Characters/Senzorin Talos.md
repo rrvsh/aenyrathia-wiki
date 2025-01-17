@@ -15,8 +15,8 @@ Senzorin Talos is a sun elf male in his late teens of average height and physiqu
 - INT: 14 = 13 + 1 from race
 - WIS: 14
 - CHA: 16 = 14 + 2 from race
-## Level 1
 
+## Level 1
 ### Race: [Half-Elf](https://5e.tools/races.html#half-elf_phb)
 *Note: Senzorin is a sun elf in lore*
 - Ability Score Increase: CHA +2, CON +1, INT +1
@@ -51,6 +51,8 @@ Senzorin Talos is a sun elf male in his late teens of average height and physiqu
 *1st level rogue feature*
 - Can speak and understand thieves' cant
 - Can leave secret messages and symbols and understand them
+
+
 ## Level 2
 
 ### Class: [Rogue](https://5e.tools/classes.html#rogue_phb)
@@ -68,8 +70,8 @@ Senzorin Talos is a sun elf male in his late teens of average height and physiqu
 - Have 2 Exploit Dice at 2nd level, Exploit Dice is 1d4
 - Regain all Exploit Dice on short or long rest
 - **Exploit save DC** = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
-## Level 3
 
+## Level 3
 ### Class: [Rogue](https://5e.tools/classes.html#rogue_phb)
 - Hit Dice: 3d8
 - Max HP: 25 = 16 + 7 (1d8) + 2 (CON modifier)
@@ -92,8 +94,8 @@ Senzorin Talos is a sun elf male in his late teens of average height and physiqu
 - Can make mage hand invisible
 - Can use mage hand to stow or retrieve an object from a container worn or carried by another creature within range
 - Mage hand can use any set of tools you are proficient with
-## Level 4
 
+## Level 4
 ### Class: [Rogue](https://5e.tools/classes.html#rogue_phb)
 - Hit Dice: 4d8
 - Max HP: 31 = 25 + 4 (1d8) + 2 (CON modifier)
@@ -112,7 +114,6 @@ Senzorin Talos is a sun elf male in his late teens of average height and physiqu
 - Gain expertise in Persuasion
 
 ## Level 5
-
 ### Class: [Rogue](https://5e.tools/classes.html#rogue_phb)
 - Hit Dice: 5d8
 - Max HP: 38 = 31 + 7 (1d8) + 2 (CON modifier)
@@ -123,7 +124,6 @@ Senzorin Talos is a sun elf male in his late teens of average height and physiqu
 - When an attacker that Senzo can see hits him with an attack, Senzo can use his reaction to halve the attack's damage against him.
 
 ## Level 6
-
 ### Class: [Rogue](https://5e.tools/classes.html#rogue_phb)
 - Hit Dice: 6d8
 - Max HP: 47 = 38 + 7 (1d8) + 2 (CON modifier)
