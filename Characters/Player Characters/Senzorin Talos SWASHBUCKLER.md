@@ -43,8 +43,8 @@
 *1st level rogue feature*
 - Can speak and understand thieves' cant
 - Can leave secret messages and symbols and understand them
-## Level 2
 
+## Level 2
 ### Class: [Rogue](https://5e.tools/classes.html#rogue_phb)
 - Hit Dice: 2d8
 - Max HP: 16 = 10 + 4 (1d8) + 2 (CON modifier)
@@ -60,8 +60,8 @@
 - Have 2 Exploit Dice at 2nd level, Exploit Dice is 1d4
 - Regain all Exploit Dice on short or long rest
 - **Exploit save DC** = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
-## Level 3
 
+## Level 3
 ### Class: [Rogue](https://5e.tools/classes.html#rogue_phb)
 - Hit Dice: 3d8
 - Max HP: 25 = 16 + 7 (1d8) + 2 (CON modifier)
@@ -69,10 +69,10 @@
 *3rd level rogue feature*
 - Add 2d6 damage to attacks made with advantage once per turn
 - Do not need advantage if another enemy of the target is within 5 ft. of it
-- 
+
 #### Swashbuckler Exploits
 *3rd level swashbuckler feature*
-- You learn certain Exploits at the rogue levels noted in the table below. These don't count against your total number of Exploits Known and can't be switched upon gaining a level
+- Senzo learn certain Exploits at the rogue levels noted in the table below. These don't count against his total number of Exploits Known and can't be switched upon gaining a level
 	- 3rd level = disarm, commanding presence
 	- 5th level = soothing speech, glancing blow
 	- 9th level = recruit informant
@@ -92,7 +92,6 @@
 
 
 ## Level 4
-
 ### Class: [Rogue](https://5e.tools/classes.html#rogue_phb)
 - Hit Dice: 4d8
 - Max HP: 31 = 25 + 4 (1d8) + 2 (CON modifier)
@@ -111,13 +110,12 @@
 - Gain expertise in Persuasion
 
 ## Level 5
-
 ### Class: [Rogue](https://5e.tools/classes.html#rogue_phb)
 - Hit Dice: 5d8
 - Max HP: 38 = 31 + 7 (1d8) + 2 (CON modifier)
 - Proficiency Bonus: +3
 - Sneak Attack dice increased from 2d6 to 3d6
-- 
+
 #### Cunning Strike
 - When Senzo adds his Sneak Attack bonus to a damage roll, Senzo can forgo some of the bonus to use a Devious Exploit he knows without expending an Exploit Die, with the following rules: 
 - It must be a Devious Exploit that he knows that can be used as part of a weapon attack.
@@ -129,8 +127,15 @@
 *5th level rogue feature*
 - When an attacker that Senzo can see hits him with an attack, Senzo can use his reaction to halve the attack's damage against him.
 
-## Level 6
+#### Soothing Speech 
+*5th level Swashbuckler Exploit*
+- As an action, Senzo can expend an Exploit Die and attempt to soothe the emotions of any creature that can both hear and understand him within 20 feet, forcing them to make a Charisma saving throw. On a failed save, for the next 10 minutes, creatures become indifferent toward creatures of his choice that they are currently hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the effect ends, the creature becomes hostile again.
 
+#### Glancing Blow 
+*5th level Swashbuckler Exploit*
+- When you make a melee weapon attack and miss, you can expend an Exploit Die to immediately repeat your attack against another target within the reach of your weapon.
+
+## Level 6
 ### Class: [Rogue](https://5e.tools/classes.html#rogue_phb)
 - Hit Dice: 6d8
 - Max HP: 47 = 38 + 7 (1d8) + 2 (CON modifier)
@@ -138,4 +143,4 @@
 
 #### Expertise
 *6th level rogue feature*
-- Senzo can choose two more of his proficiencies (in skills or with thieves' tools) to gain the benefit of Expertise. Insight and Perception.
+- Senzo can choose one more of his proficiencies (in skills or with thieves' tools) to gain the benefit of Expertise. Perception.
