@@ -139,8 +139,9 @@ Character's appearance as seen by others
 - Arm Launcher:
   As an action, this magical launcher can be loaded with up to five Tiny objects, such as individual bags of ball bearings or caltrops, or vials of acid, alchemist's fire, oil, or holy water. As a bonus action, the wearer can activate the launcher to fire one of the objects loaded in it, making a ranged weapon attack against a target or space it can see within 20 feet.
   
-- Enhanced Weapon:
-  This magic item grants its wielder +1 bonus to attack and damage rolls. This bonus increases at 11th level (+2) and 17th level (+3).
+- Enhanced Defense
+  This magical item grants its wearer or wielder a +1 bonus to its Armor Class while wearing or wielding this infused item.
+  This bonus increases at 11th level (+2) and 17th level (+3).
   
  - Wildfire Cannon:
    As an action, the wielder of this magical object can expend Charges and use your Artificer Spellcasting modifier to cast these spells: firebolt (0 Charges), burning hands (1 Charge), scorching ray (2 Charges), or fireball (3 Charges).This magical item has a number of Charges equal to your Intelligence modifier (minimum of 1 Charge), and it regains all of its expended Charges each day at dawn.
