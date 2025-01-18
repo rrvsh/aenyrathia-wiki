@@ -131,7 +131,7 @@ Character's appearance as seen by others
   Flash of Genius: 
 - You can offer potent insight at a moment's notice. Starting at 6th level, when you or a creature who can hear you within 30 feet, makes an ability check or saving throw, you can use your reaction to add your Intelligence modifier to that roll.You can use this reaction a number of times equal to your Intelligence modifier (a minimum of once), and you regain all of your expended uses when you complete a long rest.
 # Spell List
-- Cantrips: Frostbite, Green-Flame Blade, Shocking Grasp, True Strike (SA), Ray of Frost(SA), FireBolt(IN), Mending
+- Cantrips: Frostbite, Green-Flame Blade, Shocking Grasp, True Strike (SA), Ray of Frost(SA), FireBolt(IN), Mending, Thorn Whip
 - Spells: 
   Absorb Element(E), Thunderous Smite(E),  Alter Self(E), Spider Climb(E), Searing Smite, Cure Wounds, Witch Bolt, Heat Metal, Burning Hands(IN), Scorching Ray(IN), Fireball(IN)
   
@@ -149,8 +149,6 @@ Character's appearance as seen by others
    While wearing these magical goggles the wearer can see normally through light or heavy obscurement from mundane and magical phenomena, including darkness, within 120 feet. The wearer also no longer suffers negative effects from the Sunlight Sensitivity trait, and it has advantage on any saving throws it makes to resist the blinded condition.
    
   - Wondrous Whip
-   The wielder of this magical object can use it to cast the thorn whip Cantrip using the object as the material component of the spell, and your Intelligence as the spellcasting ability.
-
-The wielder can choose for the spell to do 0 damage. If it does, it can pull a target smaller than it up to 30 feet closer, and can catch objects in a fre hand. If the target is larger than it, the wielder can pull itself up to 30 feet closer to the target.
-
-At 11th level, this object gains a +1 bonus to its attack and damage rolls. This bonus increases to +2 at 17th level.
+    The wielder of this magical object can use it to cast the thorn whip Cantrip using the object as the material component of the spell, and your Intelligence as the spellcasting ability.
+    The wielder can choose for the spell to do 0 damage. If it does, it can pull a target smaller than it up to 30 feet closer, and can catch objects in a fre hand. If the target is larger than it, the wielder can pull itself up to 30 feet closer to the target.
+    At 11th level, this object gains a +1 bonus to its attack and damage rolls. This bonus increases to +2 at 17th level.
