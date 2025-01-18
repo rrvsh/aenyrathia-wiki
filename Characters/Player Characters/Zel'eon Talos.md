@@ -148,7 +148,9 @@ Character's appearance as seen by others
  - Goggles of Clearsight:
    While wearing these magical goggles the wearer can see normally through light or heavy obscurement from mundane and magical phenomena, including darkness, within 120 feet. The wearer also no longer suffers negative effects from the Sunlight Sensitivity trait, and it has advantage on any saving throws it makes to resist the blinded condition.
    
-  - Repulsion Shield:
-    When the wielder of this magic shield is hit by a melee attack, it can expend one Charge to force the attacking creature to make a Strength saving throw. Large or larger creatures have advantage on this saving throw. On a failed save, the attacker is knocked back 15 feet in a straight line and falls prone. 
-    This magical item has a number of Charges equal to your Intelligence modifier (minimum of 1 Charge), and it regains all of its expended Charges each day at dawn.
-    At 11th level, this magic shield grants a +1 bonus to Armor Class. This Armor Class bonus increases to +2 at 17th level.
+  - Wondrous Whip
+   The wielder of this magical object can use it to cast the thorn whip Cantrip using the object as the material component of the spell, and your Intelligence as the spellcasting ability.
+
+The wielder can choose for the spell to do 0 damage. If it does, it can pull a target smaller than it up to 30 feet closer, and can catch objects in a fre hand. If the target is larger than it, the wielder can pull itself up to 30 feet closer to the target.
+
+At 11th level, this object gains a +1 bonus to its attack and damage rolls. This bonus increases to +2 at 17th level.
