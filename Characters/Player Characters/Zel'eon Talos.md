@@ -139,11 +139,11 @@ Character's appearance as seen by others
 - Arm Launcher:
   As an action, this magical launcher can be loaded with up to five Tiny objects, such as individual bags of ball bearings or caltrops, or vials of acid, alchemist's fire, oil, or holy water. As a bonus action, the wearer can activate the launcher to fire one of the objects loaded in it, making a ranged weapon attack against a target or space it can see within 20 feet.
   
-- Enhanced Arcane Focus:
-  This magic item grants its wielder +1 bonus to spell attack rolls, and it ignores half cover when making spell attacks. This bonus increases at 11th level (+2) and 17th level (+3).
+- Enhanced Weapon:
+  This magic item grants its wielder +1 bonus to attack and damage rolls. This bonus increases at 11th level (+2) and 17th level (+3).
   
-- Wildfire Cannon:
-  As an action, the wielder of this magical object can expend Charges and use your Artificer Spellcasting modifier to cast these spells: firebolt (0 Charges), burning hands (1 Charge), scorching ray (2 Charges), or fireball (3 Charges).This magical item has a number of Charges equal to your Intelligence modifier (minimum of 1 Charge), and it regains all of its expended Charges each day at dawn.
+ - Wildfire Cannon:
+   As an action, the wielder of this magical object can expend Charges and use your Artificer Spellcasting modifier to cast these spells: firebolt (0 Charges), burning hands (1 Charge), scorching ray (2 Charges), or fireball (3 Charges).This magical item has a number of Charges equal to your Intelligence modifier (minimum of 1 Charge), and it regains all of its expended Charges each day at dawn.
   
  - Goggles of Clearsight:
    While wearing these magical goggles the wearer can see normally through light or heavy obscurement from mundane and magical phenomena, including darkness, within 120 feet. The wearer also no longer suffers negative effects from the Sunlight Sensitivity trait, and it has advantage on any saving throws it makes to resist the blinded condition.
