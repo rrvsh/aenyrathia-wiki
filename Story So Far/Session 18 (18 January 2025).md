@@ -1,3 +1,4 @@
+As Zel'eon fires the firebolt into Ray Shelby, he falls weakly behind the DJ console of the nightclub Winter. 
 # Assault on Winter
 - Zel'eon sees peakers massing on the dance floor and casts fireball to take out a load of them, leaving two brutes.
 	- Zel is shocked at his ability to do this, as he fired instinctually and didn't install any capability for it.
