@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a624a70546064de3",
+        "id": "9e829e22190f0bf9",
         "type": "tabs",
         "children": [
           {
-            "id": "cd87be94a5c23a72",
+            "id": "aebd649be3507807",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Story So Far/Session 18 (18 January 2025).md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Session 18 (18 January 2025)"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Story So Far/Session 18 (18 January 2025).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Session 18 (18 January 2025)"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Story So Far/Session 18 (18 January 2025).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Session 18 (18 January 2025)"
             }
           },
           {
@@ -132,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Story So Far/Session 18 (18 January 2025).md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Session 18 (18 January 2025)"
             }
           }
         ]
@@ -155,10 +163,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd87be94a5c23a72",
+  "active": "aebd649be3507807",
   "lastOpenFiles": [
-    "Story So Far/Session 18 (18 January 2025).md",
     "conflict-files-obsidian-git.md",
+    "Story So Far/Session 18 (18 January 2025).md",
     "Home/Aenyrathia_World_Map_v1.png",
     "Characters/Major NPCs/Dalen Blackwell.md",
     "Story So Far.md"
