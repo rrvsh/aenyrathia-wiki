@@ -1,7 +1,9 @@
 # Overview
 This category collects characters in the campaign who have had a major impact on the world or the story.
 # List of Major NPCs
-## A
+## Allies
 1. [[Dregdul|Characters/Major NPCs/Dregdul]]
 2. Dalen Blackwell
-3. 
+3. Laura
+4. Principal Jon de Bolbec
+5. 
