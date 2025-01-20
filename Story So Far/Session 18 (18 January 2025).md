@@ -1,4 +1,18 @@
-As Zel'eon fires the firebolt into Ray Shelby, he falls weakly behind the DJ console of the nightclub Winter. 
+As the partygoers stream out of Winter, various Peaker mooks push through the crowd, attempting to mass on the dance floor. Zel'eon, still perched on the second floor railing, instinctively holds out his arm. As his launcher grows bright and red hot, his wings spread out, venting the heat from his body as a large bolt of elemental fire coalesces at the tip of his cannon. Before the Peakers are able to move out of the way, a huge ball of fire impacts the crowd of them, immolating most and severely harming the rest. Zel'eon stands there, shocked at this new ability, but notices a bright light coming from behind him.
+
+As this was happening, Arche, from her position on the street after having jumped out the window seconds prior, sees Zel'eon fire off this fireball. She turns to Senzorin and tells him to shoot her with his pistol. Senzorin is understandably confused, but raises the revolver given to him by Einrow, firing it at Arche's back. As the bullet impacts, clear crystal shards shoot out, forming into large jagged angel wings. Arche grabs Senzorin and takes off, flying back into Winter, depositing herself and Senzorin next to Zel'eon.
+
+Zel'eon makes a beeline to the back of the club, but discovers Ray Shelby has disappeared. Senzorin drops down from the second floor, engaging one of the Peaker brutes and taking him out. As the other remaining Peaker closes the gap between him and Senzorin, Arche flies down directly onto him, spearing him through the chest as a sphere of dim light surrounds her.
+
+Just then, a shot rings out from the crowd of partygoers trying to make their exit from the club. Senzorin ducks, seeing two EchoTech agents in the crowd. The agents toss concussive grenades at Krimewatch, uncaring about the safety of the crowd. Zel'eon flies over from the DJ console and takes down one of the EchoTech agents, while the other disappears out the exit with the rest of the crowd. 
+
+As the dust settles from the brief melee, they discover that Ray Shelby disappeared through a platform at the DJ console. Zel'eon lets his blood drip through the gaps in the platform, accessing its mechanical controls and lowering him and the rest down into a hallway filled with noxious gas.
+
+As Arche shields herself from the gas using her mask, she sees Senzorin and Zel'eon staring blankly ahead, their eyes glassy. Senzorin sees a vision of himself in Einrow's apartment while Zel'eon is back in the clinic, tucked into bed while his mother reads him medical case studies. They both enjoy their visions, but know that they are under the effects of the gas, and slap themselves out of it. Back in reality, Arche tries to stop the flow of gas from a grate in the floor by placing her suit jacket over it and wetting it, but it does not help. Senzorin and Zel'eon both try freezing the grate with their ice spells, but are unable to muster the creativity needed to modify their usual combat spells into a spell of freezing. 
+
+They manage to resist the effects of the gas, and make their way to the end of the hallway, where they see a barred steel sliding door. Zel'eon unsheathes his arm blade, and begins sawing through the bar while Arche and Senzorin heat it up to speed up the process as much as they can. After a few arduous minutes of them trying to resist the gas, Zel'eon breaks through the bar and slides the door open, and ducks just in time to avoid a knife thrown from the next room.
+
+As Zel'eon barges in, he sees a Peaker supply room with two brutes inside, one with a brace of daggers attached to his hand and the other with two large magitech power gauntlets. 
 # Assault on Winter
 - Zel'eon sees peakers massing on the dance floor and casts fireball to take out a load of them, leaving two brutes.
 	- Zel is shocked at his ability to do this, as he fired instinctually and didn't install any capability for it.
