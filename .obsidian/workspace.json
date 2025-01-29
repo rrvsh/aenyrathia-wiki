@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story So Far/Session 18 (18 January 2025).md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session 18 (18 January 2025)"
+              "title": "Home"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Non-Canon/Brakzuk Mithrandir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Brakzuk Mithrandir"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,9 +177,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e3597ac29622f1f",
+  "active": "aebd649be3507807",
   "lastOpenFiles": [
+    "Story So Far/Session 01 (30 March 2024).md",
     "Story So Far/Session 18 (18 January 2025).md",
+    "Non-Canon/Brakzuk Mithrandir.md",
+    "Non-Canon",
     "conflict-files-obsidian-git.md",
     "Home/Aenyrathia_World_Map_v1.png",
     "Characters/Major NPCs/Dalen Blackwell.md",
