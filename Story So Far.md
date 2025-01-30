@@ -1,8 +1,8 @@
 # Player Characters
-- Zel'eon Talos: A 17 year old half-elf artificer who cannot abide weakness in his body, preferring to replace it with implants and machinery.
-- Senzorin Talos: A 17 year old sun elf rogue who coasts through life, focusing on having as much leisure and fun as possible.
-- Arche Kagekiyo: An 18 year old sun elf cleric who is the only living worshipper of the moon goddess Ruatis.
-- Saziver Copper-Fern: An anxious 17 year old gnome psion who lives his life through the screen of his devices, surveilling everyone around him to be aware of any danger before it comes for him.
+- Zel'eon Talos: A 17 year old half-elf artificer who cannot abide weakness in his body, preferring to replace it with implants and machinery. He has, along with Krimewatch, incited rebellion in Mosskach's Sector 7 against EchoTech.
+- Senzorin Talos: A 18 year old sun elf rogue who coasts through life, focusing on having as much leisure and fun as possible. 
+- Arche Kagekiyo: An 18 year old sun elf cleric who is the only living worshipper of the moon goddess Ruatis. She is the daughter of Governor Anderson Ortlinde of Ilrinia, and has reconciled with him after running away from home years ago.
+- Saziver Copper-Fern: Once an anxious 17 year old gnome psion who lives his life through the screen of his devices, surveilling everyone around him to be aware of any danger before it comes for him. He is now an avatar of Aleph-Null, a god of surveillance who has just emerged out of the digital ether, and has separated semi-amicably with Krimewatch.
 # The Story So Far
 ## [[Session 01 (30 March 2024)|Story So Far/Session 01 (30 March 2024)]]
 *30th of Eternae 1892*  
