@@ -1,13 +1,5 @@
-# Overview
-Born on 3 Empyrea in the year 1875 in the city of Ilrinia, Senzorin is a product of two different worlds. His mother, a sun elf high society business woman, and his father, a human bartender, raised Senzorin under the yoke of the Talos clan doctrine. They expected Senzorin to live up to the standard set by the rest of the clan, but the pressure was too much for him. At the age of ten, he ran away to the neighbouring city of Mosskach, abandoning his family.
+# Senzorin Talos SWASHBUCKLER
 
-The next few years were a whirlwind for Senzorin - first living as an urchin on the crime ridden streets of Mosskach, he was soon recruited into a gang and made to sell dwarven mined drugs. He soon picked himself up a mentor in the form of Einrow Whitebeard, a former pirate captain who has blood ties to the gang. Einrow had turned to a life of burglary after getting bored of the high seas, and took Senzorin under his wing, teaching him the trade.
-
-In 1891, on Senzorin's 16th birthday, Einrow passed while on a burglary gone awry. A fatally wounded Einrow stumbles into a bar to find Senzorin and gifts him a revolver, before passing on in Senzorin's arms. Senzorin continued his life as a burglar, though without much use for the riches he gathered, redistributed them among the poorer citizens of his neighbourhood in Mosskach. He spent most of his days whiling away time, not doing much else other than burglary, though he began to spend some time studying folklore in Mosskach's public libraries, intrigued by tales of the Goddess of Darkness.
-
-In 1892, Senzorin and his friends, Zel'eon, Arche, and Saziver, got into serious trouble with the EchoTech corporation after stealing one of their experimental chips. The four fled to Ilrinia, where they have enrolled into Arbalest Academy.
-# Physical Appearance
-Senzorin Talos is a sun elf male in his late teens of average height and physique. He bears a distinct knife scar on his right eye as a result of defying orders in his time as a gang member. His shoulder length hair is gold in colour, but he dyes it black to avoid people guessing at his sun elf heritage.
 # In-Game Statistics
 - STR: 5 = 4 + 1 from feat
 - DEX: 20 = 18 + 2 from ASI 
@@ -15,8 +7,8 @@ Senzorin Talos is a sun elf male in his late teens of average height and physiqu
 - INT: 14 = 13 + 1 from race
 - WIS: 14
 - CHA: 16 = 14 + 2 from race
-
 ## Level 1
+
 ### Race: [Half-Elf](https://5e.tools/races.html#half-elf_phb)
 *Note: Senzorin is a sun elf in lore*
 - Ability Score Increase: CHA +2, CON +1, INT +1
@@ -52,9 +44,7 @@ Senzorin Talos is a sun elf male in his late teens of average height and physiqu
 - Can speak and understand thieves' cant
 - Can leave secret messages and symbols and understand them
 
-
 ## Level 2
-
 ### Class: [Rogue](https://5e.tools/classes.html#rogue_phb)
 - Hit Dice: 2d8
 - Max HP: 16 = 10 + 4 (1d8) + 2 (CON modifier)
@@ -79,21 +69,27 @@ Senzorin Talos is a sun elf male in his late teens of average height and physiqu
 *3rd level rogue feature*
 - Add 2d6 damage to attacks made with advantage once per turn
 - Do not need advantage if another enemy of the target is within 5 ft. of it
-#### Spellcasting
-*3rd level arcane trickster feature*
-- Learn mage hand and two other cantrips at 3rd level, learn another at 10th level
-	- Mage Hand, Message, Minor Illusion
-- Can cast spells using spell slots, regain spell slots on long rest
-- Learn three 1st-level spells at 3rd level, learn more as level up
-	- Find Familiar, Unseen Servant, Distort Value
-- Spell save DC = 8 + your proficiency bonus + your Intelligence modifier
-- Spell attack modifier = your proficiency bonus + your Intelligence modifier
-#### Mage Hand Adept
-*3rd level arcane trickster feature*
-- Can control mage hand as a bonus action within 30ft
-- Can make mage hand invisible
-- Can use mage hand to stow or retrieve an object from a container worn or carried by another creature within range
-- Mage hand can use any set of tools you are proficient with
+
+#### Swashbuckler Exploits
+*3rd level swashbuckler feature*
+- Senzo learn certain Exploits at the rogue levels noted in the table below. These don't count against his total number of Exploits Known and can't be switched upon gaining a level
+	- 3rd level = disarm, commanding presence
+	- 5th level = soothing speech, glancing blow
+	- 9th level = recruit informant
+###### Disarm:
+- When Senzo hits a creature with a weapon attack, he can expend an Exploit Die to force it to make a Strength saving throw. On a failed save, it takes additional damage equal to one roll of his Exploit Die, and it drops one item of his choice that it is currently holding on the ground in the space it is occupying.
+###### Commanding Presence 
+- When Senzo makes a Charisma (Persuasion) or Charisma (Intimidation) check he can expend one Exploit Die, roll it, and add the result to his ability check. Senzo can do so after he rolls the d20, but before he knows if he succeeds. Also, whenever he would make a Charisma (Intimidation) check, he can make a Strength (Intimidation) check instead.
+
+#### Fancy Footwork
+*3rd level swashbuckler feature*
+- Can make a melee attack against a creature, and it cannot target Senzo with opportunity attacks for the rest of Sennzo's current turn.
+
+#### Relentless Swagger
+*3rd level swashbuckler feature*
+- When Senzo rolls initiative & are not surprised, he adds his Charisma modifier to the result of his roll.
+- Senzo doesn't need advantage on his attack roll to use his Sneak Attack bonus against a creature so long as he is within 5ft of it, no other creatures are within 5ft of him, and he doesn't have disadvantage on his attack roll. All the other rules for using Sneak Attack still apply to him.
+
 
 ## Level 4
 ### Class: [Rogue](https://5e.tools/classes.html#rogue_phb)
@@ -119,9 +115,25 @@ Senzorin Talos is a sun elf male in his late teens of average height and physiqu
 - Max HP: 38 = 31 + 7 (1d8) + 2 (CON modifier)
 - Proficiency Bonus: +3
 - Sneak Attack dice increased from 2d6 to 3d6
+
+#### Cunning Strike
+- When Senzo adds his Sneak Attack bonus to a damage roll, Senzo can forgo some of the bonus to use a Devious Exploit he knows without expending an Exploit Die, with the following rules: 
+- It must be a Devious Exploit that he knows that can be used as part of a weapon attack.
+- Senzo reduces his Sneak Attack bonus damage by a number of d6s equal to the degree of the Exploit
+- If the Exploit normally deals additional damage, it does not deal any additional damage when used in this way.
+ - For example, if he were to use this feature to use dirty hit as part of a Sneak Attack, Senzo would reduce his Sneak Attack bonus damage by 2d6 since dirty hit is a 2nd-degree Exploit, and dirty hit would not deal any additional damage to his target.
+ - 
 #### Uncanny Dodge
 *5th level rogue feature*
 - When an attacker that Senzo can see hits him with an attack, Senzo can use his reaction to halve the attack's damage against him.
+
+#### Soothing Speech 
+*5th level Swashbuckler Exploit*
+- As an action, Senzo can expend an Exploit Die and attempt to soothe the emotions of any creature that can both hear and understand him within 20 feet, forcing them to make a Charisma saving throw. On a failed save, for the next 10 minutes, creatures become indifferent toward creatures of his choice that they are currently hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the effect ends, the creature becomes hostile again.
+
+#### Glancing Blow 
+*5th level Swashbuckler Exploit*
+- When you make a melee weapon attack and miss, you can expend an Exploit Die to immediately repeat your attack against another target within the reach of your weapon.
 
 ## Level 6
 ### Class: [Rogue](https://5e.tools/classes.html#rogue_phb)
@@ -131,4 +143,4 @@ Senzorin Talos is a sun elf male in his late teens of average height and physiqu
 
 #### Expertise
 *6th level rogue feature*
-- Senzo can choose two more of his proficiencies (in skills or with thieves' tools) to gain the benefit of Expertise. Insight and Perception.
+- Senzo can choose one more of his proficiencies (in skills or with thieves' tools) to gain the benefit of Expertise. Perception.
