@@ -1,5 +1,3 @@
-# Senzorin Talos SWASHBUCKLER
-
 # In-Game Statistics
 - STR: 5 = 4 + 1 from feat
 - DEX: 20 = 18 + 2 from ASI 
