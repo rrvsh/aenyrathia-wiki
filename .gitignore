@@ -1,8 +1,4 @@
 .trash/
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
-output.txt
-.obsidian/workspace.json
-.obsidian/appearance.json
-.obsidian/app.json
-.obsidian/workspace.json
+output*.txt
