@@ -57,12 +57,12 @@ The team once again enjoy several weeks of downtime, as Saziver constructs orich
 _23rd of Mistfall 1892_  
 Investigating the golem attack, the team finds links to an extremist group, the Purists, that hate technomancy, and thus the New Dawn. Storming their headquarters, the team slays most of them, but finds the Purists were likely not behind the golem attack.
 
-## [[Session 10.1 (20 July 2024)|Story So Far/Session 10.1 (20 July 2024)]]
+## [[Session 10-1 (20 July 2024)|Story So Far/Session 10-1 (20 July 2024)]]
 
 _23rd of Mistfall 1892 - 24th of Mistfall 1892_  
 Zel'eon and Arche hunt one of the patron-beasts of the wood elves of the jungle of Alwahd in a bid to gain access to the highest point in Ilrinia. They succeed, and Arche receives a boon from Ruatis.
 
-## [[Session 10.2 (27 July 2024)|Story So Far/Session 10.2 (27 July 2024)]]
+## [[Session 10-2 (27 July 2024)|Story So Far/Session 10-1 (27 July 2024)]]
 
 _25th of Mistfall 1892 - 27th of Mistfall 1892_  
 Zel'eon and Senzorin make use of one of Senzorin's romantic connections to gain information on a rare car part, and successfully steal it.
