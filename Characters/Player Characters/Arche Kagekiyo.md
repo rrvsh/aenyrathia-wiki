@@ -100,3 +100,9 @@ Arche is a female sun elf in her late teens, standing at a height of 5'8". She k
 -  1 lvl 3 spell slot + 1 prepared spell
 - Steps of Night: As a bonus action, when in dim light or darkness give flying speed equal to movement speed for a minute. Can use a number of times equal to prof bonus, recharges on long rest
 - +1 Channel divinity slot per short rest
+
+## Level 7
+## Class: Cleric
+- Hit dice 7d8
+- Max Hp 67 = 57 + 10 (1d8+2) I really gotta stop rolling on google
+- 1 level 4 spell slot + 1 prepared spell
