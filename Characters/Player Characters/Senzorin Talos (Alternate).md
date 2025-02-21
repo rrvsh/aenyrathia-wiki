@@ -142,3 +142,12 @@
 #### Expertise
 *6th level rogue feature*
 - Senzo can choose one more of his proficiencies (in skills or with thieves' tools) to gain the benefit of Expertise. Perception.
+
+## Level 7 
+### Class: [Rogue](https://2014.5e.tools/classes.html#rogue_phb,state:feature=s5-0~sub-swashbuckler-xge=b1)
+- Hit Dice: 7d8
+- Max HP: 55 = 47 + 6 (1d8) + 2 (CON modifier)
+- Proficiency Bonus: +3
+
+#### Evasion
+- Senzo can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an ice storm spell. When he is subjected to an effect that allows him to make a Dexterity saving throw to take only half damage, he instead take no damage if he succeeds on the saving throw, and only half damage if he fails.
