@@ -130,6 +130,16 @@ Character's appearance as seen by others
 *6th level Artificer feature*
   Flash of Genius: 
 - You can offer potent insight at a moment's notice. Starting at 6th level, when you or a creature who can hear you within 30 feet, makes an ability check or saving throw, you can use your reaction to add your Intelligence modifier to that roll.You can use this reaction a number of times equal to your Intelligence modifier (a minimum of once), and you regain all of your expended uses when you complete a long rest.
+
+# Level 7
+
+### Class: Artificer
+- Hit Dice: 7d8 
+- Max HP: 76
+*7th level Artificer Feature
+Expert Tinker
+- There are few who match your skill with mechanical magics. Starting at 7th level, you add double your proficiency bonus to any ability check you make with any tool you are proficient in. Your expertise also allows you to infuse magic items with Infusions. However, you cannot increase bonuses above +3.
+
 # Spell List
 - Cantrips: Frostbite, Green-Flame Blade, Shocking Grasp, True Strike (SA), Ray of Frost(SA), FireBolt(IN), Mending, Thorn Whip
 - Spells: 
