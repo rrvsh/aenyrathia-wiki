@@ -10,3 +10,4 @@
 ## Miscellaneous
 - Short rests take 10 minutes instead of 1 hour. Long rests take 1 week instead of 8 hours.
 - Potions now take a bonus action to drink. You can use an action to drink any variant of a potion of healing to take the maximised result instead of rolling e.g. bonus action drink potion of healing -> heal 2d4+2 HP, action drink potion of healing -> heal 10 HP
+- You do not reset death saving throw failures after being stabilised or healed. Instead, failures only reset after a long rest.
