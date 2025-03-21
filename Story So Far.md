@@ -112,3 +112,15 @@ A brief fight ensues between some EchoTech agents, Peaker brutes, and Krimewatch
 _9th-10th of Empyrea 1892_  
 
 Krimewatch, hailed as heroes in Rukh Zidul for inciting rebellion against EchoTech, are urgently summoned back to Ilrinia by Dalen. They orchestrate a escape from Mosskach, and discover a hidden cove containing a schooner bequeathed to Senzorin by Einrow, christened the "S.S. Obsessess", named after a ship of Einrow's, as his inheritance. Arriving in Ilrinia, they're immediately ambushed by wood elf assassins upon meeting Dalen.
+
+## [[Session 20 (15 February 2025)]]
+
+_10th of Empyrea 1892_
+
+They fight off the ambush and talk to the Council's Archmages.
+
+## [[Session 21 (23 February 2025)]]
+
+_something_
+
+Downtime in Ilirinia
